@@ -1,0 +1,322 @@
+\ Model knapsack_60_1_1
+\ LP format - for model browsing. Use MPS format to capture full model detail.
+\ Signature: 0x5769b1bf76eb5de0
+Minimize
+  122.99 x[0] + 129.1 x[1] + 86.14 x[2] + 122.77 x[3] + 171.13 x[4]
+   + 92.64 x[5] + 117.62 x[6] + 105.98 x[7] + 102.19 x[8] + 138.34 x[9]
+   + 122.61 x[10] + 99.59 x[11] + 128.44 x[12] + 36.86 x[13] + 113.98 x[14]
+   + 104.02 x[15] + 50.63 x[16] + 110.48 x[17] + 152.94 x[18]
+   + 160.41 x[19] + 73.5 x[20] + 42.66 x[21] + 79.11 x[22] + 176.17 x[23]
+   + 194.5 x[24] + 87.19 x[25] + 101.44 x[26] + 84.42 x[27] + 131.85 x[28]
+   + 52.66 x[29] + 69.76 x[30] + 83.25 x[31] + 127.88 x[32] + 37.75 x[33]
+   + 173.32 x[34] + 137.85 x[35] + 133.99 x[36] + 27.15 x[37] + 96.4 x[38]
+   + 27.57 x[39] + 16.14 x[40] + 92.56 x[41] + 23.64 x[42] + 115.43 x[43]
+   + 71.02 x[44] + 21.92 x[45] + 126.18 x[46] + 198.04 x[47] + 33.49 x[48]
+   + 157.51 x[49] + 23.24 x[50] + 147.1 x[51] + 92.64 x[52] + 116.31 x[53]
+   + 141.47 x[54] + 70.43 x[55] + 19.23 x[56] + 69.56 x[57] + 21.42 x[58]
+   + 68.07 x[59] - 725 y[0] - 710 y[1] - 510 y[2] - 642 y[3] - 984 y[4]
+   - 560 y[5] - 805 y[6] - 792 y[7] - 610 y[8] - 929 y[9] - 1083 y[10]
+   - 629 y[11] - 651 y[12] - 353 y[13] - 581 y[14] - 615 y[15] - 315 y[16]
+   - 854 y[17] - 876 y[18] - 862 y[19] - 465 y[20] - 255 y[21] - 645 y[22]
+   - 1063 y[23] - 1098 y[24] - 539 y[25] - 934 y[26] - 702 y[27]
+   - 1082 y[28] - 311 y[29] - 462 y[30] - 456 y[31] - 747 y[32] - 198 y[33]
+   - 986 y[34] - 902 y[35] - 743 y[36] - 186 y[37] - 808 y[38] - 181 y[39]
+   - 155 y[40] - 505 y[41] - 209 y[42] - 763 y[43] - 370 y[44] - 148 y[45]
+   - 936 y[46] - 1076 y[47] - 202 y[48] - 865 y[49] - 178 y[50] - 882 y[51]
+   - 824 y[52] - 608 y[53] - 801 y[54] - 643 y[55] - 139 y[56] - 682 y[57]
+   - 145 y[58] - 420 y[59]
+Subject To
+ primal_upper: 625 y[0] + 610 y[1] + 410 y[2] + 542 y[3] + 884 y[4]
+   + 460 y[5] + 705 y[6] + 692 y[7] + 510 y[8] + 829 y[9] + 983 y[10]
+   + 529 y[11] + 551 y[12] + 253 y[13] + 481 y[14] + 515 y[15] + 215 y[16]
+   + 754 y[17] + 776 y[18] + 762 y[19] + 365 y[20] + 155 y[21] + 545 y[22]
+   + 963 y[23] + 998 y[24] + 439 y[25] + 834 y[26] + 602 y[27] + 982 y[28]
+   + 211 y[29] + 362 y[30] + 356 y[31] + 647 y[32] + 98 y[33] + 886 y[34]
+   + 802 y[35] + 643 y[36] + 86 y[37] + 708 y[38] + 81 y[39] + 55 y[40]
+   + 405 y[41] + 109 y[42] + 663 y[43] + 270 y[44] + 48 y[45] + 836 y[46]
+   + 976 y[47] + 102 y[48] + 765 y[49] + 78 y[50] + 782 y[51] + 724 y[52]
+   + 508 y[53] + 701 y[54] + 543 y[55] + 39 y[56] + 582 y[57] + 45 y[58]
+   + 320 y[59] + 62 z[0] + 61 z[1] + 41 z[2] + 54 z[3] + 88 z[4] + 46 z[5]
+   + 70 z[6] + 69 z[7] + 51 z[8] + 83 z[9] + 98 z[10] + 53 z[11] + 55 z[12]
+   + 25 z[13] + 48 z[14] + 52 z[15] + 22 z[16] + 75 z[17] + 78 z[18]
+   + 76 z[19] + 36 z[20] + 16 z[21] + 54 z[22] + 96 z[23] + 100 z[24]
+   + 44 z[25] + 83 z[26] + 60 z[27] + 98 z[28] + 21 z[29] + 36 z[30]
+   + 36 z[31] + 65 z[32] + 10 z[33] + 89 z[34] + 80 z[35] + 64 z[36]
+   + 9 z[37] + 71 z[38] + 8 z[39] + 6 z[40] + 40 z[41] + 11 z[42]
+   + 66 z[43] + 27 z[44] + 5 z[45] + 84 z[46] + 98 z[47] + 10 z[48]
+   + 76 z[49] + 8 z[50] + 78 z[51] + 72 z[52] + 51 z[53] + 70 z[54]
+   + 54 z[55] + 4 z[56] + 58 z[57] + 4 z[58] + 32 z[59] <= 15700
+ primal_lower0: 851 u[0] + 156 u[1] + 276 u[2] + 928 u[3] + 646 u[4]
+   + 390 u[5] + 915 u[6] + 958 u[7] + 192 u[8] + 807 u[9] + 577 u[10]
+   + 707 u[11] + 937 u[12] + 183 u[13] + 275 u[14] + 453 u[15] + 553 u[16]
+   + 236 u[17] + 962 u[18] + 68 u[19] + 351 u[20] + 229 u[21] + 243 u[22]
+   + 541 u[23] + 952 u[24] + 657 u[25] + 324 u[26] + 492 u[27] + 248 u[28]
+   + 69 u[29] + 324 u[30] + 702 u[31] + 417 u[32] + 308 u[33] + 672 u[34]
+   + 796 u[35] + 789 u[36] + 912 u[37] + 614 u[38] + 491 u[39] + 177 u[40]
+   + 71 u[41] + 623 u[42] + 17 u[43] + 360 u[44] + 594 u[45] + 742 u[46]
+   + 538 u[47] + 248 u[48] + 279 u[49] + 480 u[50] + 928 u[51] + 782 u[52]
+   + 718 u[53] + 495 u[54] + 561 u[55] + 513 u[56] + 8 u[57] + 223 u[58]
+   + 370 u[59] <= 962
+ interdiction[0]: x[0] + u[0] <= 1
+ interdiction[1]: x[1] + u[1] <= 1
+ interdiction[2]: x[2] + u[2] <= 1
+ interdiction[3]: x[3] + u[3] <= 1
+ interdiction[4]: x[4] + u[4] <= 1
+ interdiction[5]: x[5] + u[5] <= 1
+ interdiction[6]: x[6] + u[6] <= 1
+ interdiction[7]: x[7] + u[7] <= 1
+ interdiction[8]: x[8] + u[8] <= 1
+ interdiction[9]: x[9] + u[9] <= 1
+ interdiction[10]: x[10] + u[10] <= 1
+ interdiction[11]: x[11] + u[11] <= 1
+ interdiction[12]: x[12] + u[12] <= 1
+ interdiction[13]: x[13] + u[13] <= 1
+ interdiction[14]: x[14] + u[14] <= 1
+ interdiction[15]: x[15] + u[15] <= 1
+ interdiction[16]: x[16] + u[16] <= 1
+ interdiction[17]: x[17] + u[17] <= 1
+ interdiction[18]: x[18] + u[18] <= 1
+ interdiction[19]: x[19] + u[19] <= 1
+ interdiction[20]: x[20] + u[20] <= 1
+ interdiction[21]: x[21] + u[21] <= 1
+ interdiction[22]: x[22] + u[22] <= 1
+ interdiction[23]: x[23] + u[23] <= 1
+ interdiction[24]: x[24] + u[24] <= 1
+ interdiction[25]: x[25] + u[25] <= 1
+ interdiction[26]: x[26] + u[26] <= 1
+ interdiction[27]: x[27] + u[27] <= 1
+ interdiction[28]: x[28] + u[28] <= 1
+ interdiction[29]: x[29] + u[29] <= 1
+ interdiction[30]: x[30] + u[30] <= 1
+ interdiction[31]: x[31] + u[31] <= 1
+ interdiction[32]: x[32] + u[32] <= 1
+ interdiction[33]: x[33] + u[33] <= 1
+ interdiction[34]: x[34] + u[34] <= 1
+ interdiction[35]: x[35] + u[35] <= 1
+ interdiction[36]: x[36] + u[36] <= 1
+ interdiction[37]: x[37] + u[37] <= 1
+ interdiction[38]: x[38] + u[38] <= 1
+ interdiction[39]: x[39] + u[39] <= 1
+ interdiction[40]: x[40] + u[40] <= 1
+ interdiction[41]: x[41] + u[41] <= 1
+ interdiction[42]: x[42] + u[42] <= 1
+ interdiction[43]: x[43] + u[43] <= 1
+ interdiction[44]: x[44] + u[44] <= 1
+ interdiction[45]: x[45] + u[45] <= 1
+ interdiction[46]: x[46] + u[46] <= 1
+ interdiction[47]: x[47] + u[47] <= 1
+ interdiction[48]: x[48] + u[48] <= 1
+ interdiction[49]: x[49] + u[49] <= 1
+ interdiction[50]: x[50] + u[50] <= 1
+ interdiction[51]: x[51] + u[51] <= 1
+ interdiction[52]: x[52] + u[52] <= 1
+ interdiction[53]: x[53] + u[53] <= 1
+ interdiction[54]: x[54] + u[54] <= 1
+ interdiction[55]: x[55] + u[55] <= 1
+ interdiction[56]: x[56] + u[56] <= 1
+ interdiction[57]: x[57] + u[57] <= 1
+ interdiction[58]: x[58] + u[58] <= 1
+ interdiction[59]: x[59] + u[59] <= 1
+ mccormick1[0]: - u[0] + z[0] <= 0
+ mccormick1[1]: - u[1] + z[1] <= 0
+ mccormick1[2]: - u[2] + z[2] <= 0
+ mccormick1[3]: - u[3] + z[3] <= 0
+ mccormick1[4]: - u[4] + z[4] <= 0
+ mccormick1[5]: - u[5] + z[5] <= 0
+ mccormick1[6]: - u[6] + z[6] <= 0
+ mccormick1[7]: - u[7] + z[7] <= 0
+ mccormick1[8]: - u[8] + z[8] <= 0
+ mccormick1[9]: - u[9] + z[9] <= 0
+ mccormick1[10]: - u[10] + z[10] <= 0
+ mccormick1[11]: - u[11] + z[11] <= 0
+ mccormick1[12]: - u[12] + z[12] <= 0
+ mccormick1[13]: - u[13] + z[13] <= 0
+ mccormick1[14]: - u[14] + z[14] <= 0
+ mccormick1[15]: - u[15] + z[15] <= 0
+ mccormick1[16]: - u[16] + z[16] <= 0
+ mccormick1[17]: - u[17] + z[17] <= 0
+ mccormick1[18]: - u[18] + z[18] <= 0
+ mccormick1[19]: - u[19] + z[19] <= 0
+ mccormick1[20]: - u[20] + z[20] <= 0
+ mccormick1[21]: - u[21] + z[21] <= 0
+ mccormick1[22]: - u[22] + z[22] <= 0
+ mccormick1[23]: - u[23] + z[23] <= 0
+ mccormick1[24]: - u[24] + z[24] <= 0
+ mccormick1[25]: - u[25] + z[25] <= 0
+ mccormick1[26]: - u[26] + z[26] <= 0
+ mccormick1[27]: - u[27] + z[27] <= 0
+ mccormick1[28]: - u[28] + z[28] <= 0
+ mccormick1[29]: - u[29] + z[29] <= 0
+ mccormick1[30]: - u[30] + z[30] <= 0
+ mccormick1[31]: - u[31] + z[31] <= 0
+ mccormick1[32]: - u[32] + z[32] <= 0
+ mccormick1[33]: - u[33] + z[33] <= 0
+ mccormick1[34]: - u[34] + z[34] <= 0
+ mccormick1[35]: - u[35] + z[35] <= 0
+ mccormick1[36]: - u[36] + z[36] <= 0
+ mccormick1[37]: - u[37] + z[37] <= 0
+ mccormick1[38]: - u[38] + z[38] <= 0
+ mccormick1[39]: - u[39] + z[39] <= 0
+ mccormick1[40]: - u[40] + z[40] <= 0
+ mccormick1[41]: - u[41] + z[41] <= 0
+ mccormick1[42]: - u[42] + z[42] <= 0
+ mccormick1[43]: - u[43] + z[43] <= 0
+ mccormick1[44]: - u[44] + z[44] <= 0
+ mccormick1[45]: - u[45] + z[45] <= 0
+ mccormick1[46]: - u[46] + z[46] <= 0
+ mccormick1[47]: - u[47] + z[47] <= 0
+ mccormick1[48]: - u[48] + z[48] <= 0
+ mccormick1[49]: - u[49] + z[49] <= 0
+ mccormick1[50]: - u[50] + z[50] <= 0
+ mccormick1[51]: - u[51] + z[51] <= 0
+ mccormick1[52]: - u[52] + z[52] <= 0
+ mccormick1[53]: - u[53] + z[53] <= 0
+ mccormick1[54]: - u[54] + z[54] <= 0
+ mccormick1[55]: - u[55] + z[55] <= 0
+ mccormick1[56]: - u[56] + z[56] <= 0
+ mccormick1[57]: - u[57] + z[57] <= 0
+ mccormick1[58]: - u[58] + z[58] <= 0
+ mccormick1[59]: - u[59] + z[59] <= 0
+ mccormick2[0]: - y[0] + z[0] <= 0
+ mccormick2[1]: - y[1] + z[1] <= 0
+ mccormick2[2]: - y[2] + z[2] <= 0
+ mccormick2[3]: - y[3] + z[3] <= 0
+ mccormick2[4]: - y[4] + z[4] <= 0
+ mccormick2[5]: - y[5] + z[5] <= 0
+ mccormick2[6]: - y[6] + z[6] <= 0
+ mccormick2[7]: - y[7] + z[7] <= 0
+ mccormick2[8]: - y[8] + z[8] <= 0
+ mccormick2[9]: - y[9] + z[9] <= 0
+ mccormick2[10]: - y[10] + z[10] <= 0
+ mccormick2[11]: - y[11] + z[11] <= 0
+ mccormick2[12]: - y[12] + z[12] <= 0
+ mccormick2[13]: - y[13] + z[13] <= 0
+ mccormick2[14]: - y[14] + z[14] <= 0
+ mccormick2[15]: - y[15] + z[15] <= 0
+ mccormick2[16]: - y[16] + z[16] <= 0
+ mccormick2[17]: - y[17] + z[17] <= 0
+ mccormick2[18]: - y[18] + z[18] <= 0
+ mccormick2[19]: - y[19] + z[19] <= 0
+ mccormick2[20]: - y[20] + z[20] <= 0
+ mccormick2[21]: - y[21] + z[21] <= 0
+ mccormick2[22]: - y[22] + z[22] <= 0
+ mccormick2[23]: - y[23] + z[23] <= 0
+ mccormick2[24]: - y[24] + z[24] <= 0
+ mccormick2[25]: - y[25] + z[25] <= 0
+ mccormick2[26]: - y[26] + z[26] <= 0
+ mccormick2[27]: - y[27] + z[27] <= 0
+ mccormick2[28]: - y[28] + z[28] <= 0
+ mccormick2[29]: - y[29] + z[29] <= 0
+ mccormick2[30]: - y[30] + z[30] <= 0
+ mccormick2[31]: - y[31] + z[31] <= 0
+ mccormick2[32]: - y[32] + z[32] <= 0
+ mccormick2[33]: - y[33] + z[33] <= 0
+ mccormick2[34]: - y[34] + z[34] <= 0
+ mccormick2[35]: - y[35] + z[35] <= 0
+ mccormick2[36]: - y[36] + z[36] <= 0
+ mccormick2[37]: - y[37] + z[37] <= 0
+ mccormick2[38]: - y[38] + z[38] <= 0
+ mccormick2[39]: - y[39] + z[39] <= 0
+ mccormick2[40]: - y[40] + z[40] <= 0
+ mccormick2[41]: - y[41] + z[41] <= 0
+ mccormick2[42]: - y[42] + z[42] <= 0
+ mccormick2[43]: - y[43] + z[43] <= 0
+ mccormick2[44]: - y[44] + z[44] <= 0
+ mccormick2[45]: - y[45] + z[45] <= 0
+ mccormick2[46]: - y[46] + z[46] <= 0
+ mccormick2[47]: - y[47] + z[47] <= 0
+ mccormick2[48]: - y[48] + z[48] <= 0
+ mccormick2[49]: - y[49] + z[49] <= 0
+ mccormick2[50]: - y[50] + z[50] <= 0
+ mccormick2[51]: - y[51] + z[51] <= 0
+ mccormick2[52]: - y[52] + z[52] <= 0
+ mccormick2[53]: - y[53] + z[53] <= 0
+ mccormick2[54]: - y[54] + z[54] <= 0
+ mccormick2[55]: - y[55] + z[55] <= 0
+ mccormick2[56]: - y[56] + z[56] <= 0
+ mccormick2[57]: - y[57] + z[57] <= 0
+ mccormick2[58]: - y[58] + z[58] <= 0
+ mccormick2[59]: - y[59] + z[59] <= 0
+ mccormick3[0]: y[0] + u[0] - z[0] <= 1
+ mccormick3[1]: y[1] + u[1] - z[1] <= 1
+ mccormick3[2]: y[2] + u[2] - z[2] <= 1
+ mccormick3[3]: y[3] + u[3] - z[3] <= 1
+ mccormick3[4]: y[4] + u[4] - z[4] <= 1
+ mccormick3[5]: y[5] + u[5] - z[5] <= 1
+ mccormick3[6]: y[6] + u[6] - z[6] <= 1
+ mccormick3[7]: y[7] + u[7] - z[7] <= 1
+ mccormick3[8]: y[8] + u[8] - z[8] <= 1
+ mccormick3[9]: y[9] + u[9] - z[9] <= 1
+ mccormick3[10]: y[10] + u[10] - z[10] <= 1
+ mccormick3[11]: y[11] + u[11] - z[11] <= 1
+ mccormick3[12]: y[12] + u[12] - z[12] <= 1
+ mccormick3[13]: y[13] + u[13] - z[13] <= 1
+ mccormick3[14]: y[14] + u[14] - z[14] <= 1
+ mccormick3[15]: y[15] + u[15] - z[15] <= 1
+ mccormick3[16]: y[16] + u[16] - z[16] <= 1
+ mccormick3[17]: y[17] + u[17] - z[17] <= 1
+ mccormick3[18]: y[18] + u[18] - z[18] <= 1
+ mccormick3[19]: y[19] + u[19] - z[19] <= 1
+ mccormick3[20]: y[20] + u[20] - z[20] <= 1
+ mccormick3[21]: y[21] + u[21] - z[21] <= 1
+ mccormick3[22]: y[22] + u[22] - z[22] <= 1
+ mccormick3[23]: y[23] + u[23] - z[23] <= 1
+ mccormick3[24]: y[24] + u[24] - z[24] <= 1
+ mccormick3[25]: y[25] + u[25] - z[25] <= 1
+ mccormick3[26]: y[26] + u[26] - z[26] <= 1
+ mccormick3[27]: y[27] + u[27] - z[27] <= 1
+ mccormick3[28]: y[28] + u[28] - z[28] <= 1
+ mccormick3[29]: y[29] + u[29] - z[29] <= 1
+ mccormick3[30]: y[30] + u[30] - z[30] <= 1
+ mccormick3[31]: y[31] + u[31] - z[31] <= 1
+ mccormick3[32]: y[32] + u[32] - z[32] <= 1
+ mccormick3[33]: y[33] + u[33] - z[33] <= 1
+ mccormick3[34]: y[34] + u[34] - z[34] <= 1
+ mccormick3[35]: y[35] + u[35] - z[35] <= 1
+ mccormick3[36]: y[36] + u[36] - z[36] <= 1
+ mccormick3[37]: y[37] + u[37] - z[37] <= 1
+ mccormick3[38]: y[38] + u[38] - z[38] <= 1
+ mccormick3[39]: y[39] + u[39] - z[39] <= 1
+ mccormick3[40]: y[40] + u[40] - z[40] <= 1
+ mccormick3[41]: y[41] + u[41] - z[41] <= 1
+ mccormick3[42]: y[42] + u[42] - z[42] <= 1
+ mccormick3[43]: y[43] + u[43] - z[43] <= 1
+ mccormick3[44]: y[44] + u[44] - z[44] <= 1
+ mccormick3[45]: y[45] + u[45] - z[45] <= 1
+ mccormick3[46]: y[46] + u[46] - z[46] <= 1
+ mccormick3[47]: y[47] + u[47] - z[47] <= 1
+ mccormick3[48]: y[48] + u[48] - z[48] <= 1
+ mccormick3[49]: y[49] + u[49] - z[49] <= 1
+ mccormick3[50]: y[50] + u[50] - z[50] <= 1
+ mccormick3[51]: y[51] + u[51] - z[51] <= 1
+ mccormick3[52]: y[52] + u[52] - z[52] <= 1
+ mccormick3[53]: y[53] + u[53] - z[53] <= 1
+ mccormick3[54]: y[54] + u[54] - z[54] <= 1
+ mccormick3[55]: y[55] + u[55] - z[55] <= 1
+ mccormick3[56]: y[56] + u[56] - z[56] <= 1
+ mccormick3[57]: y[57] + u[57] - z[57] <= 1
+ mccormick3[58]: y[58] + u[58] - z[58] <= 1
+ mccormick3[59]: y[59] + u[59] - z[59] <= 1
+Bounds
+Binaries
+ x[0] x[1] x[2] x[3] x[4] x[5] x[6] x[7] x[8] x[9] x[10] x[11] x[12] x[13]
+ x[14] x[15] x[16] x[17] x[18] x[19] x[20] x[21] x[22] x[23] x[24] x[25]
+ x[26] x[27] x[28] x[29] x[30] x[31] x[32] x[33] x[34] x[35] x[36] x[37]
+ x[38] x[39] x[40] x[41] x[42] x[43] x[44] x[45] x[46] x[47] x[48] x[49]
+ x[50] x[51] x[52] x[53] x[54] x[55] x[56] x[57] x[58] x[59] y[0] y[1] y[2]
+ y[3] y[4] y[5] y[6] y[7] y[8] y[9] y[10] y[11] y[12] y[13] y[14] y[15]
+ y[16] y[17] y[18] y[19] y[20] y[21] y[22] y[23] y[24] y[25] y[26] y[27]
+ y[28] y[29] y[30] y[31] y[32] y[33] y[34] y[35] y[36] y[37] y[38] y[39]
+ y[40] y[41] y[42] y[43] y[44] y[45] y[46] y[47] y[48] y[49] y[50] y[51]
+ y[52] y[53] y[54] y[55] y[56] y[57] y[58] y[59] u[0] u[1] u[2] u[3] u[4]
+ u[5] u[6] u[7] u[8] u[9] u[10] u[11] u[12] u[13] u[14] u[15] u[16] u[17]
+ u[18] u[19] u[20] u[21] u[22] u[23] u[24] u[25] u[26] u[27] u[28] u[29]
+ u[30] u[31] u[32] u[33] u[34] u[35] u[36] u[37] u[38] u[39] u[40] u[41]
+ u[42] u[43] u[44] u[45] u[46] u[47] u[48] u[49] u[50] u[51] u[52] u[53]
+ u[54] u[55] u[56] u[57] u[58] u[59] z[0] z[1] z[2] z[3] z[4] z[5] z[6]
+ z[7] z[8] z[9] z[10] z[11] z[12] z[13] z[14] z[15] z[16] z[17] z[18] z[19]
+ z[20] z[21] z[22] z[23] z[24] z[25] z[26] z[27] z[28] z[29] z[30] z[31]
+ z[32] z[33] z[34] z[35] z[36] z[37] z[38] z[39] z[40] z[41] z[42] z[43]
+ z[44] z[45] z[46] z[47] z[48] z[49] z[50] z[51] z[52] z[53] z[54] z[55]
+ z[56] z[57] z[58] z[59]
+End
