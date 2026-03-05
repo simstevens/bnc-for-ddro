@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the open-source implementations accompanying the paper "Branch-and-Cut for Mixed-Integer Linear Decision-Dependent Robust Optimization" by Henri Lefebvre, Martin Schmidt, Simon Stevens and Johannes Thürauf.
+This repository contains the open-source implementations accompanying the paper "Branch-and-Cut for Mixed-Integer Linear Decision-Dependent Robust Optimization" by [Henri Lefebvre](https://henrilefebvre.com/), [Martin Schmidt](https://martinschmidt.squarespace.com/), [Simon Stevens](https://simstevens.github.io/) and [Johannes Thürauf](https://www.johannesthuerauf.com/).
 
 ## Prerequisites
 
