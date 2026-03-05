@@ -47,8 +47,7 @@ def main():
         interdiction_cuts=interdiction_cuts,
         intersection_cuts=intersection_cuts,
         nogood_cuts=no_good_cuts,
-        branchandbound=branchandbound,
-        minmax=args.minmax
+        branchandbound=branchandbound
     )
     # Create the tracker
     tracker = Tracker()
@@ -221,7 +220,6 @@ def print_parameter_information(args, config):
     print(f"CPLEX cuts: {bool(args.cplex_cuts+1)}")
     print(f"Tolerance: {args.tolerance}")
     print(f"Write LP files: {bool(args.write_lps)}")
-    print(f"Min-max problem: {bool(args.minmax)}")
     print(f"%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n")
 
 

@@ -36,7 +36,6 @@ class Config:
         lower_level="",
         separation="integer",
         solution=None,
-        minmax=False
     ):
         """Initialize the configuration with given parameters."""
 
@@ -50,7 +49,6 @@ class Config:
         self.time_lim = time_lim
         self.sub_time_lim = time_lim
         self.separation = separation
-        self.minmax = minmax
 
         # Cut parameters
         self.interdiction_cuts = interdiction_cuts
