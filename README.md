@@ -38,4 +38,4 @@ All parameters defined in `src/run_bnc.py` are forwarded by `run_bnc.sh`. The pa
 | `--write_lps` | int | `0`, `1` | `0` | Write LP files of node problems and subproblems during solving. |
 
 Notes:
-- For bobilib instances, ensure the instance appears in `instances/bobilib/solvable-instances.csv`. If not, there exists no known solution to the instance. 
+- For BOBILib instances, ensure the instance appears in `instances/bobilib/solvable-instances.csv`. If not, there exists no known solution to the instance. 
