@@ -1,4 +1,4 @@
-* Signature: 0xf453f129e35f5108
+* Signature: 0xf453f129e361b648
 NAME knapsack_20_1_2
 ROWS
  N  OBJ
@@ -86,203 +86,203 @@ ROWS
  L  mccormick3[19]
 COLUMNS
     MARKER    'MARKER'                 'INTORG'
-    x[0]      OBJ       25.97
+    x[0]      OBJ       10
     x[0]      interdiction[0]  1
-    x[1]      OBJ       108.1
+    x[1]      OBJ       10
     x[1]      interdiction[1]  1
-    x[2]      OBJ       57.45
+    x[2]      OBJ       10
     x[2]      interdiction[2]  1
-    x[3]      OBJ       69.17
+    x[3]      OBJ       10
     x[3]      interdiction[3]  1
-    x[4]      OBJ       173.65
+    x[4]      OBJ       10
     x[4]      interdiction[4]  1
-    x[5]      OBJ       73.06
+    x[5]      OBJ       10
     x[5]      interdiction[5]  1
-    x[6]      OBJ       23.8
+    x[6]      OBJ       10
     x[6]      interdiction[6]  1
-    x[7]      OBJ       78.93
+    x[7]      OBJ       10
     x[7]      interdiction[7]  1
-    x[8]      OBJ       121.72
+    x[8]      OBJ       10
     x[8]      interdiction[8]  1
-    x[9]      OBJ       91.08
+    x[9]      OBJ       10
     x[9]      interdiction[9]  1
-    x[10]     OBJ       114.17
+    x[10]     OBJ       10
     x[10]     interdiction[10]  1
-    x[11]     OBJ       136.62
+    x[11]     OBJ       10
     x[11]     interdiction[11]  1
-    x[12]     OBJ       75.75
+    x[12]     OBJ       10
     x[12]     interdiction[12]  1
-    x[13]     OBJ       136.15
+    x[13]     OBJ       10
     x[13]     interdiction[13]  1
-    x[14]     OBJ       17.88
+    x[14]     OBJ       10
     x[14]     interdiction[14]  1
-    x[15]     OBJ       72.72
+    x[15]     OBJ       10
     x[15]     interdiction[15]  1
-    x[16]     OBJ       60.92
+    x[16]     OBJ       10
     x[16]     interdiction[16]  1
-    x[17]     OBJ       88.08
+    x[17]     OBJ       10
     x[17]     interdiction[17]  1
-    x[18]     OBJ       73.73
+    x[18]     OBJ       10
     x[18]     interdiction[18]  1
-    x[19]     OBJ       66.09
+    x[19]     OBJ       10
     x[19]     interdiction[19]  1
-    y[0]      OBJ       -185
+    y[0]      OBJ       -463
     y[0]      primal_upper  85
     y[0]      mccormick2[0]  -1
     y[0]      mccormick3[0]  1
-    y[1]      OBJ       -563
-    y[1]      primal_upper  463
+    y[1]      OBJ       -248
+    y[1]      primal_upper  465
     y[1]      mccormick2[1]  -1
     y[1]      mccormick3[1]  1
-    y[2]      OBJ       -565
-    y[2]      primal_upper  465
+    y[2]      OBJ       -305
+    y[2]      primal_upper  919
     y[2]      mccormick2[2]  -1
     y[2]      mccormick3[2]  1
-    y[3]      OBJ       -348
-    y[3]      primal_upper  248
+    y[3]      OBJ       -557
+    y[3]      primal_upper  32
     y[3]      mccormick2[3]  -1
     y[3]      mccormick3[3]  1
-    y[4]      OBJ       -1019
-    y[4]      primal_upper  919
+    y[4]      OBJ       -451
+    y[4]      primal_upper  569
     y[4]      mccormick2[4]  -1
     y[4]      mccormick3[4]  1
-    y[5]      OBJ       -405
-    y[5]      primal_upper  305
+    y[5]      OBJ       -634
+    y[5]      primal_upper  895
     y[5]      mccormick2[5]  -1
     y[5]      mccormick3[5]  1
-    y[6]      OBJ       -132
-    y[6]      primal_upper  32
+    y[6]      OBJ       -691
+    y[6]      primal_upper  426
     y[6]      mccormick2[6]  -1
     y[6]      mccormick3[6]  1
-    y[7]      OBJ       -657
-    y[7]      primal_upper  557
+    y[7]      OBJ       -333
+    y[7]      primal_upper  65
     y[7]      mccormick2[7]  -1
     y[7]      mccormick3[7]  1
-    y[8]      OBJ       -669
-    y[8]      primal_upper  569
+    y[8]      OBJ       -728
+    y[8]      primal_upper  506
     y[8]      mccormick2[8]  -1
     y[8]      mccormick3[8]  1
-    y[9]      OBJ       -551
-    y[9]      primal_upper  451
+    y[9]      OBJ       -532
+    y[9]      primal_upper  567
     y[9]      mccormick2[9]  -1
     y[9]      mccormick3[9]  1
-    y[10]     OBJ       -995
-    y[10]     primal_upper  895
+    y[10]     OBJ       -624
+    y[10]     primal_upper  377
     y[10]     mccormick2[10]  -1
     y[10]     mccormick3[10]  1
-    y[11]     OBJ       -734
-    y[11]     primal_upper  634
+    y[11]     OBJ       -476
+    y[11]     primal_upper  56
     y[11]     mccormick2[11]  -1
     y[11]     mccormick3[11]  1
-    y[12]     OBJ       -526
-    y[12]     primal_upper  426
+    y[12]     OBJ       -756
+    y[12]     primal_upper  273
     y[12]     mccormick2[12]  -1
     y[12]     mccormick3[12]  1
-    y[13]     OBJ       -791
-    y[13]     primal_upper  691
+    y[13]     OBJ       -995
+    y[13]     primal_upper  401
     y[13]     mccormick2[13]  -1
     y[13]     mccormick3[13]  1
-    y[14]     OBJ       -165
-    y[14]     primal_upper  65
+    y[14]     OBJ       -744
+    y[14]     primal_upper  34
     y[14]     mccormick2[14]  -1
     y[14]     mccormick3[14]  1
-    y[15]     OBJ       -433
-    y[15]     primal_upper  333
+    y[15]     OBJ       -885
+    y[15]     primal_upper  322
     y[15]     mccormick2[15]  -1
     y[15]     mccormick3[15]  1
-    y[16]     OBJ       -606
-    y[16]     primal_upper  506
+    y[16]     OBJ       -967
+    y[16]     primal_upper  978
     y[16]     mccormick2[16]  -1
     y[16]     mccormick3[16]  1
-    y[17]     OBJ       -828
-    y[17]     primal_upper  728
+    y[17]     OBJ       -803
+    y[17]     primal_upper  29
     y[17]     mccormick2[17]  -1
     y[17]     mccormick3[17]  1
-    y[18]     OBJ       -667
-    y[18]     primal_upper  567
+    y[18]     OBJ       -68
+    y[18]     primal_upper  30
     y[18]     mccormick2[18]  -1
     y[18]     mccormick3[18]  1
-    y[19]     OBJ       -632
-    y[19]     primal_upper  532
+    y[19]     OBJ       -219
+    y[19]     primal_upper  323
     y[19]     mccormick2[19]  -1
     y[19]     mccormick3[19]  1
     u[0]      primal_lower0  664
     u[0]      interdiction[0]  1
     u[0]      mccormick1[0]  -1
     u[0]      mccormick3[0]  1
-    u[1]      primal_lower0  686
+    u[1]      primal_lower0  244
     u[1]      interdiction[1]  1
     u[1]      mccormick1[1]  -1
     u[1]      mccormick3[1]  1
-    u[2]      primal_lower0  244
+    u[2]      primal_lower0  986
     u[2]      interdiction[2]  1
     u[2]      mccormick1[2]  -1
     u[2]      mccormick3[2]  1
-    u[3]      primal_lower0  55
+    u[3]      primal_lower0  315
     u[3]      interdiction[3]  1
     u[3]      mccormick1[3]  -1
     u[3]      mccormick3[3]  1
-    u[4]      primal_lower0  986
+    u[4]      primal_lower0  308
     u[4]      interdiction[4]  1
     u[4]      mccormick1[4]  -1
     u[4]      mccormick3[4]  1
-    u[5]      primal_lower0  496
+    u[5]      primal_lower0  482
     u[5]      interdiction[5]  1
     u[5]      mccormick1[5]  -1
     u[5]      mccormick3[5]  1
-    u[6]      primal_lower0  315
+    u[6]      primal_lower0  157
     u[6]      interdiction[6]  1
     u[6]      mccormick1[6]  -1
     u[6]      mccormick3[6]  1
-    u[7]      primal_lower0  860
+    u[7]      primal_lower0  604
     u[7]      interdiction[7]  1
     u[7]      mccormick1[7]  -1
     u[7]      mccormick3[7]  1
-    u[8]      primal_lower0  308
+    u[8]      primal_lower0  277
     u[8]      interdiction[8]  1
     u[8]      mccormick1[8]  -1
     u[8]      mccormick3[8]  1
-    u[9]      primal_lower0  722
+    u[9]      primal_lower0  994
     u[9]      interdiction[9]  1
     u[9]      mccormick1[9]  -1
     u[9]      mccormick3[9]  1
-    u[10]     primal_lower0  482
+    u[10]     primal_lower0  404
     u[10]     interdiction[10]  1
     u[10]     mccormick1[10]  -1
     u[10]     mccormick3[10]  1
-    u[11]     primal_lower0  521
+    u[11]     primal_lower0  619
     u[11]     interdiction[11]  1
     u[11]     mccormick1[11]  -1
     u[11]     mccormick3[11]  1
-    u[12]     primal_lower0  157
+    u[12]     primal_lower0  388
     u[12]     interdiction[12]  1
     u[12]     mccormick1[12]  -1
     u[12]     mccormick3[12]  1
-    u[13]     primal_lower0  858
+    u[13]     primal_lower0  100
     u[13]     interdiction[13]  1
     u[13]     mccormick1[13]  -1
     u[13]     mccormick3[13]  1
-    u[14]     primal_lower0  604
+    u[14]     primal_lower0  693
     u[14]     interdiction[14]  1
     u[14]     mccormick1[14]  -1
     u[14]     mccormick3[14]  1
-    u[15]     primal_lower0  964
+    u[15]     primal_lower0  485
     u[15]     interdiction[15]  1
     u[15]     mccormick1[15]  -1
     u[15]     mccormick3[15]  1
-    u[16]     primal_lower0  277
+    u[16]     primal_lower0  301
     u[16]     interdiction[16]  1
     u[16]     mccormick1[16]  -1
     u[16]     mccormick3[16]  1
-    u[17]     primal_lower0  87
+    u[17]     primal_lower0  400
     u[17]     interdiction[17]  1
     u[17]     mccormick1[17]  -1
     u[17]     mccormick3[17]  1
-    u[18]     primal_lower0  994
+    u[18]     primal_lower0  425
     u[18]     interdiction[18]  1
     u[18]     mccormick1[18]  -1
     u[18]     mccormick3[18]  1
-    u[19]     primal_lower0  339
+    u[19]     primal_lower0  710
     u[19]     interdiction[19]  1
     u[19]     mccormick1[19]  -1
     u[19]     mccormick3[19]  1
@@ -294,81 +294,81 @@ COLUMNS
     z[1]      mccormick1[1]  1
     z[1]      mccormick2[1]  1
     z[1]      mccormick3[1]  -1
-    z[2]      primal_upper  46
+    z[2]      primal_upper  92
     z[2]      mccormick1[2]  1
     z[2]      mccormick2[2]  1
     z[2]      mccormick3[2]  -1
-    z[3]      primal_upper  25
+    z[3]      primal_upper  3
     z[3]      mccormick1[3]  1
     z[3]      mccormick2[3]  1
     z[3]      mccormick3[3]  -1
-    z[4]      primal_upper  92
+    z[4]      primal_upper  57
     z[4]      mccormick1[4]  1
     z[4]      mccormick2[4]  1
     z[4]      mccormick3[4]  -1
-    z[5]      primal_upper  30
+    z[5]      primal_upper  90
     z[5]      mccormick1[5]  1
     z[5]      mccormick2[5]  1
     z[5]      mccormick3[5]  -1
-    z[6]      primal_upper  3
+    z[6]      primal_upper  43
     z[6]      mccormick1[6]  1
     z[6]      mccormick2[6]  1
     z[6]      mccormick3[6]  -1
-    z[7]      primal_upper  56
+    z[7]      primal_upper  6
     z[7]      mccormick1[7]  1
     z[7]      mccormick2[7]  1
     z[7]      mccormick3[7]  -1
-    z[8]      primal_upper  57
+    z[8]      primal_upper  51
     z[8]      mccormick1[8]  1
     z[8]      mccormick2[8]  1
     z[8]      mccormick3[8]  -1
-    z[9]      primal_upper  45
+    z[9]      primal_upper  57
     z[9]      mccormick1[9]  1
     z[9]      mccormick2[9]  1
     z[9]      mccormick3[9]  -1
-    z[10]     primal_upper  90
+    z[10]     primal_upper  38
     z[10]     mccormick1[10]  1
     z[10]     mccormick2[10]  1
     z[10]     mccormick3[10]  -1
-    z[11]     primal_upper  63
+    z[11]     primal_upper  6
     z[11]     mccormick1[11]  1
     z[11]     mccormick2[11]  1
     z[11]     mccormick3[11]  -1
-    z[12]     primal_upper  43
+    z[12]     primal_upper  27
     z[12]     mccormick1[12]  1
     z[12]     mccormick2[12]  1
     z[12]     mccormick3[12]  -1
-    z[13]     primal_upper  69
+    z[13]     primal_upper  40
     z[13]     mccormick1[13]  1
     z[13]     mccormick2[13]  1
     z[13]     mccormick3[13]  -1
-    z[14]     primal_upper  6
+    z[14]     primal_upper  3
     z[14]     mccormick1[14]  1
     z[14]     mccormick2[14]  1
     z[14]     mccormick3[14]  -1
-    z[15]     primal_upper  33
+    z[15]     primal_upper  32
     z[15]     mccormick1[15]  1
     z[15]     mccormick2[15]  1
     z[15]     mccormick3[15]  -1
-    z[16]     primal_upper  51
+    z[16]     primal_upper  98
     z[16]     mccormick1[16]  1
     z[16]     mccormick2[16]  1
     z[16]     mccormick3[16]  -1
-    z[17]     primal_upper  73
+    z[17]     primal_upper  3
     z[17]     mccormick1[17]  1
     z[17]     mccormick2[17]  1
     z[17]     mccormick3[17]  -1
-    z[18]     primal_upper  57
+    z[18]     primal_upper  3
     z[18]     mccormick1[18]  1
     z[18]     mccormick2[18]  1
     z[18]     mccormick3[18]  -1
-    z[19]     primal_upper  53
+    z[19]     primal_upper  32
     z[19]     mccormick1[19]  1
     z[19]     mccormick2[19]  1
     z[19]     mccormick3[19]  -1
     MARKER    'MARKER'                 'INTEND'
 RHS
-    RHS1      primal_upper  3157
+    RHS1      primal_upper  2450
     RHS1      primal_lower0  994
     RHS1      interdiction[0]  1
     RHS1      interdiction[1]  1

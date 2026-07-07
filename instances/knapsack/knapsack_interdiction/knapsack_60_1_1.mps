@@ -1,4 +1,4 @@
-* Signature: 0x5769b1bf76eb5de0
+* Signature: 0x5769b1bf76edc320
 NAME knapsack_60_1_1
 ROWS
  N  OBJ
@@ -246,603 +246,603 @@ ROWS
  L  mccormick3[59]
 COLUMNS
     MARKER    'MARKER'                 'INTORG'
-    x[0]      OBJ       122.99
+    x[0]      OBJ       10
     x[0]      interdiction[0]  1
-    x[1]      OBJ       129.1
+    x[1]      OBJ       10
     x[1]      interdiction[1]  1
-    x[2]      OBJ       86.14
+    x[2]      OBJ       10
     x[2]      interdiction[2]  1
-    x[3]      OBJ       122.77
+    x[3]      OBJ       10
     x[3]      interdiction[3]  1
-    x[4]      OBJ       171.13
+    x[4]      OBJ       10
     x[4]      interdiction[4]  1
-    x[5]      OBJ       92.64
+    x[5]      OBJ       10
     x[5]      interdiction[5]  1
-    x[6]      OBJ       117.62
+    x[6]      OBJ       10
     x[6]      interdiction[6]  1
-    x[7]      OBJ       105.98
+    x[7]      OBJ       10
     x[7]      interdiction[7]  1
-    x[8]      OBJ       102.19
+    x[8]      OBJ       10
     x[8]      interdiction[8]  1
-    x[9]      OBJ       138.34
+    x[9]      OBJ       10
     x[9]      interdiction[9]  1
-    x[10]     OBJ       122.61
+    x[10]     OBJ       10
     x[10]     interdiction[10]  1
-    x[11]     OBJ       99.59
+    x[11]     OBJ       10
     x[11]     interdiction[11]  1
-    x[12]     OBJ       128.44
+    x[12]     OBJ       10
     x[12]     interdiction[12]  1
-    x[13]     OBJ       36.86
+    x[13]     OBJ       10
     x[13]     interdiction[13]  1
-    x[14]     OBJ       113.98
+    x[14]     OBJ       10
     x[14]     interdiction[14]  1
-    x[15]     OBJ       104.02
+    x[15]     OBJ       10
     x[15]     interdiction[15]  1
-    x[16]     OBJ       50.63
+    x[16]     OBJ       10
     x[16]     interdiction[16]  1
-    x[17]     OBJ       110.48
+    x[17]     OBJ       10
     x[17]     interdiction[17]  1
-    x[18]     OBJ       152.94
+    x[18]     OBJ       10
     x[18]     interdiction[18]  1
-    x[19]     OBJ       160.41
+    x[19]     OBJ       10
     x[19]     interdiction[19]  1
-    x[20]     OBJ       73.5
+    x[20]     OBJ       10
     x[20]     interdiction[20]  1
-    x[21]     OBJ       42.66
+    x[21]     OBJ       10
     x[21]     interdiction[21]  1
-    x[22]     OBJ       79.11
+    x[22]     OBJ       10
     x[22]     interdiction[22]  1
-    x[23]     OBJ       176.17
+    x[23]     OBJ       10
     x[23]     interdiction[23]  1
-    x[24]     OBJ       194.5
+    x[24]     OBJ       10
     x[24]     interdiction[24]  1
-    x[25]     OBJ       87.19
+    x[25]     OBJ       10
     x[25]     interdiction[25]  1
-    x[26]     OBJ       101.44
+    x[26]     OBJ       10
     x[26]     interdiction[26]  1
-    x[27]     OBJ       84.42
+    x[27]     OBJ       10
     x[27]     interdiction[27]  1
-    x[28]     OBJ       131.85
+    x[28]     OBJ       10
     x[28]     interdiction[28]  1
-    x[29]     OBJ       52.66
+    x[29]     OBJ       10
     x[29]     interdiction[29]  1
-    x[30]     OBJ       69.76
+    x[30]     OBJ       10
     x[30]     interdiction[30]  1
-    x[31]     OBJ       83.25
+    x[31]     OBJ       10
     x[31]     interdiction[31]  1
-    x[32]     OBJ       127.88
+    x[32]     OBJ       10
     x[32]     interdiction[32]  1
-    x[33]     OBJ       37.75
+    x[33]     OBJ       10
     x[33]     interdiction[33]  1
-    x[34]     OBJ       173.32
+    x[34]     OBJ       10
     x[34]     interdiction[34]  1
-    x[35]     OBJ       137.85
+    x[35]     OBJ       10
     x[35]     interdiction[35]  1
-    x[36]     OBJ       133.99
+    x[36]     OBJ       10
     x[36]     interdiction[36]  1
-    x[37]     OBJ       27.15
+    x[37]     OBJ       10
     x[37]     interdiction[37]  1
-    x[38]     OBJ       96.4
+    x[38]     OBJ       10
     x[38]     interdiction[38]  1
-    x[39]     OBJ       27.57
+    x[39]     OBJ       10
     x[39]     interdiction[39]  1
-    x[40]     OBJ       16.14
+    x[40]     OBJ       10
     x[40]     interdiction[40]  1
-    x[41]     OBJ       92.56
+    x[41]     OBJ       10
     x[41]     interdiction[41]  1
-    x[42]     OBJ       23.64
+    x[42]     OBJ       10
     x[42]     interdiction[42]  1
-    x[43]     OBJ       115.43
+    x[43]     OBJ       10
     x[43]     interdiction[43]  1
-    x[44]     OBJ       71.02
+    x[44]     OBJ       10
     x[44]     interdiction[44]  1
-    x[45]     OBJ       21.92
+    x[45]     OBJ       10
     x[45]     interdiction[45]  1
-    x[46]     OBJ       126.18
+    x[46]     OBJ       10
     x[46]     interdiction[46]  1
-    x[47]     OBJ       198.04
+    x[47]     OBJ       10
     x[47]     interdiction[47]  1
-    x[48]     OBJ       33.49
+    x[48]     OBJ       10
     x[48]     interdiction[48]  1
-    x[49]     OBJ       157.51
+    x[49]     OBJ       10
     x[49]     interdiction[49]  1
-    x[50]     OBJ       23.24
+    x[50]     OBJ       10
     x[50]     interdiction[50]  1
-    x[51]     OBJ       147.1
+    x[51]     OBJ       10
     x[51]     interdiction[51]  1
-    x[52]     OBJ       92.64
+    x[52]     OBJ       10
     x[52]     interdiction[52]  1
-    x[53]     OBJ       116.31
+    x[53]     OBJ       10
     x[53]     interdiction[53]  1
-    x[54]     OBJ       141.47
+    x[54]     OBJ       10
     x[54]     interdiction[54]  1
-    x[55]     OBJ       70.43
+    x[55]     OBJ       10
     x[55]     interdiction[55]  1
-    x[56]     OBJ       19.23
+    x[56]     OBJ       10
     x[56]     interdiction[56]  1
-    x[57]     OBJ       69.56
+    x[57]     OBJ       10
     x[57]     interdiction[57]  1
-    x[58]     OBJ       21.42
+    x[58]     OBJ       10
     x[58]     interdiction[58]  1
-    x[59]     OBJ       68.07
+    x[59]     OBJ       10
     x[59]     interdiction[59]  1
-    y[0]      OBJ       -725
+    y[0]      OBJ       -610
     y[0]      primal_upper  625
     y[0]      mccormick2[0]  -1
     y[0]      mccormick3[0]  1
-    y[1]      OBJ       -710
-    y[1]      primal_upper  610
+    y[1]      OBJ       -542
+    y[1]      primal_upper  410
     y[1]      mccormick2[1]  -1
     y[1]      mccormick3[1]  1
-    y[2]      OBJ       -510
-    y[2]      primal_upper  410
+    y[2]      OBJ       -460
+    y[2]      primal_upper  884
     y[2]      mccormick2[2]  -1
     y[2]      mccormick3[2]  1
-    y[3]      OBJ       -642
-    y[3]      primal_upper  542
+    y[3]      OBJ       -692
+    y[3]      primal_upper  705
     y[3]      mccormick2[3]  -1
     y[3]      mccormick3[3]  1
-    y[4]      OBJ       -984
-    y[4]      primal_upper  884
+    y[4]      OBJ       -829
+    y[4]      primal_upper  510
     y[4]      mccormick2[4]  -1
     y[4]      mccormick3[4]  1
-    y[5]      OBJ       -560
-    y[5]      primal_upper  460
+    y[5]      OBJ       -529
+    y[5]      primal_upper  983
     y[5]      mccormick2[5]  -1
     y[5]      mccormick3[5]  1
-    y[6]      OBJ       -805
-    y[6]      primal_upper  705
+    y[6]      OBJ       -253
+    y[6]      primal_upper  551
     y[6]      mccormick2[6]  -1
     y[6]      mccormick3[6]  1
-    y[7]      OBJ       -792
-    y[7]      primal_upper  692
+    y[7]      OBJ       -515
+    y[7]      primal_upper  481
     y[7]      mccormick2[7]  -1
     y[7]      mccormick3[7]  1
-    y[8]      OBJ       -610
-    y[8]      primal_upper  510
+    y[8]      OBJ       -754
+    y[8]      primal_upper  215
     y[8]      mccormick2[8]  -1
     y[8]      mccormick3[8]  1
-    y[9]      OBJ       -929
-    y[9]      primal_upper  829
+    y[9]      OBJ       -762
+    y[9]      primal_upper  776
     y[9]      mccormick2[9]  -1
     y[9]      mccormick3[9]  1
-    y[10]     OBJ       -1083
-    y[10]     primal_upper  983
+    y[10]     OBJ       -155
+    y[10]     primal_upper  365
     y[10]     mccormick2[10]  -1
     y[10]     mccormick3[10]  1
-    y[11]     OBJ       -629
-    y[11]     primal_upper  529
+    y[11]     OBJ       -963
+    y[11]     primal_upper  545
     y[11]     mccormick2[11]  -1
     y[11]     mccormick3[11]  1
-    y[12]     OBJ       -651
-    y[12]     primal_upper  551
+    y[12]     OBJ       -439
+    y[12]     primal_upper  998
     y[12]     mccormick2[12]  -1
     y[12]     mccormick3[12]  1
-    y[13]     OBJ       -353
-    y[13]     primal_upper  253
+    y[13]     OBJ       -602
+    y[13]     primal_upper  834
     y[13]     mccormick2[13]  -1
     y[13]     mccormick3[13]  1
-    y[14]     OBJ       -581
-    y[14]     primal_upper  481
+    y[14]     OBJ       -211
+    y[14]     primal_upper  982
     y[14]     mccormick2[14]  -1
     y[14]     mccormick3[14]  1
-    y[15]     OBJ       -615
-    y[15]     primal_upper  515
+    y[15]     OBJ       -356
+    y[15]     primal_upper  362
     y[15]     mccormick2[15]  -1
     y[15]     mccormick3[15]  1
-    y[16]     OBJ       -315
-    y[16]     primal_upper  215
+    y[16]     OBJ       -98
+    y[16]     primal_upper  647
     y[16]     mccormick2[16]  -1
     y[16]     mccormick3[16]  1
-    y[17]     OBJ       -854
-    y[17]     primal_upper  754
+    y[17]     OBJ       -802
+    y[17]     primal_upper  886
     y[17]     mccormick2[17]  -1
     y[17]     mccormick3[17]  1
-    y[18]     OBJ       -876
-    y[18]     primal_upper  776
+    y[18]     OBJ       -86
+    y[18]     primal_upper  643
     y[18]     mccormick2[18]  -1
     y[18]     mccormick3[18]  1
-    y[19]     OBJ       -862
-    y[19]     primal_upper  762
+    y[19]     OBJ       -81
+    y[19]     primal_upper  708
     y[19]     mccormick2[19]  -1
     y[19]     mccormick3[19]  1
-    y[20]     OBJ       -465
-    y[20]     primal_upper  365
+    y[20]     OBJ       -405
+    y[20]     primal_upper  55
     y[20]     mccormick2[20]  -1
     y[20]     mccormick3[20]  1
-    y[21]     OBJ       -255
-    y[21]     primal_upper  155
+    y[21]     OBJ       -663
+    y[21]     primal_upper  109
     y[21]     mccormick2[21]  -1
     y[21]     mccormick3[21]  1
-    y[22]     OBJ       -645
-    y[22]     primal_upper  545
+    y[22]     OBJ       -48
+    y[22]     primal_upper  270
     y[22]     mccormick2[22]  -1
     y[22]     mccormick3[22]  1
-    y[23]     OBJ       -1063
-    y[23]     primal_upper  963
+    y[23]     OBJ       -976
+    y[23]     primal_upper  836
     y[23]     mccormick2[23]  -1
     y[23]     mccormick3[23]  1
-    y[24]     OBJ       -1098
-    y[24]     primal_upper  998
+    y[24]     OBJ       -765
+    y[24]     primal_upper  102
     y[24]     mccormick2[24]  -1
     y[24]     mccormick3[24]  1
-    y[25]     OBJ       -539
-    y[25]     primal_upper  439
+    y[25]     OBJ       -782
+    y[25]     primal_upper  78
     y[25]     mccormick2[25]  -1
     y[25]     mccormick3[25]  1
-    y[26]     OBJ       -934
-    y[26]     primal_upper  834
+    y[26]     OBJ       -508
+    y[26]     primal_upper  724
     y[26]     mccormick2[26]  -1
     y[26]     mccormick3[26]  1
-    y[27]     OBJ       -702
-    y[27]     primal_upper  602
+    y[27]     OBJ       -543
+    y[27]     primal_upper  701
     y[27]     mccormick2[27]  -1
     y[27]     mccormick3[27]  1
-    y[28]     OBJ       -1082
-    y[28]     primal_upper  982
+    y[28]     OBJ       -582
+    y[28]     primal_upper  39
     y[28]     mccormick2[28]  -1
     y[28]     mccormick3[28]  1
-    y[29]     OBJ       -311
-    y[29]     primal_upper  211
+    y[29]     OBJ       -320
+    y[29]     primal_upper  45
     y[29]     mccormick2[29]  -1
     y[29]     mccormick3[29]  1
-    y[30]     OBJ       -462
-    y[30]     primal_upper  362
+    y[30]     OBJ       -889
+    y[30]     primal_upper  211
     y[30]     mccormick2[30]  -1
     y[30]     mccormick3[30]  1
-    y[31]     OBJ       -456
-    y[31]     primal_upper  356
+    y[31]     OBJ       -1000
+    y[31]     primal_upper  65
     y[31]     mccormick2[31]  -1
     y[31]     mccormick3[31]  1
-    y[32]     OBJ       -747
-    y[32]     primal_upper  647
+    y[32]     OBJ       -656
+    y[32]     primal_upper  445
     y[32]     mccormick2[32]  -1
     y[32]     mccormick3[32]  1
-    y[33]     OBJ       -198
-    y[33]     primal_upper  98
+    y[33]     OBJ       -71
+    y[33]     primal_upper  867
     y[33]     mccormick2[33]  -1
     y[33]     mccormick3[33]  1
-    y[34]     OBJ       -986
-    y[34]     primal_upper  886
+    y[34]     OBJ       -583
+    y[34]     primal_upper  222
     y[34]     mccormick2[34]  -1
     y[34]     mccormick3[34]  1
-    y[35]     OBJ       -902
-    y[35]     primal_upper  802
+    y[35]     OBJ       -93
+    y[35]     primal_upper  327
     y[35]     mccormick2[35]  -1
     y[35]     mccormick3[35]  1
-    y[36]     OBJ       -743
-    y[36]     primal_upper  643
+    y[36]     OBJ       -533
+    y[36]     primal_upper  110
     y[36]     mccormick2[36]  -1
     y[36]     mccormick3[36]  1
-    y[37]     OBJ       -186
-    y[37]     primal_upper  86
+    y[37]     OBJ       -311
+    y[37]     primal_upper  154
     y[37]     mccormick2[37]  -1
     y[37]     mccormick3[37]  1
-    y[38]     OBJ       -808
-    y[38]     primal_upper  708
+    y[38]     OBJ       -282
+    y[38]     primal_upper  438
     y[38]     mccormick2[38]  -1
     y[38]     mccormick3[38]  1
-    y[39]     OBJ       -181
-    y[39]     primal_upper  81
+    y[39]     OBJ       -259
+    y[39]     primal_upper  404
     y[39]     mccormick2[39]  -1
     y[39]     mccormick3[39]  1
-    y[40]     OBJ       -155
-    y[40]     primal_upper  55
+    y[40]     OBJ       -864
+    y[40]     primal_upper  337
     y[40]     mccormick2[40]  -1
     y[40]     mccormick3[40]  1
-    y[41]     OBJ       -505
-    y[41]     primal_upper  405
+    y[41]     OBJ       -429
+    y[41]     primal_upper  927
     y[41]     mccormick2[41]  -1
     y[41]     mccormick3[41]  1
-    y[42]     OBJ       -209
-    y[42]     primal_upper  109
+    y[42]     OBJ       -85
+    y[42]     primal_upper  640
     y[42]     mccormick2[42]  -1
     y[42]     mccormick3[42]  1
-    y[43]     OBJ       -763
-    y[43]     primal_upper  663
+    y[43]     OBJ       -507
+    y[43]     primal_upper  987
     y[43]     mccormick2[43]  -1
     y[43]     mccormick3[43]  1
-    y[44]     OBJ       -370
-    y[44]     primal_upper  270
+    y[44]     OBJ       -270
+    y[44]     primal_upper  305
     y[44]     mccormick2[44]  -1
     y[44]     mccormick3[44]  1
-    y[45]     OBJ       -148
-    y[45]     primal_upper  48
+    y[45]     OBJ       -875
+    y[45]     primal_upper  968
     y[45]     mccormick2[45]  -1
     y[45]     mccormick3[45]  1
-    y[46]     OBJ       -936
-    y[46]     primal_upper  836
+    y[46]     OBJ       -920
+    y[46]     primal_upper  251
     y[46]     mccormick2[46]  -1
     y[46]     mccormick3[46]  1
-    y[47]     OBJ       -1076
-    y[47]     primal_upper  976
+    y[47]     OBJ       -852
+    y[47]     primal_upper  191
     y[47]     mccormick2[47]  -1
     y[47]     mccormick3[47]  1
-    y[48]     OBJ       -202
-    y[48]     primal_upper  102
+    y[48]     OBJ       -656
+    y[48]     primal_upper  25
     y[48]     mccormick2[48]  -1
     y[48]     mccormick3[48]  1
-    y[49]     OBJ       -865
-    y[49]     primal_upper  765
+    y[49]     OBJ       -977
+    y[49]     primal_upper  918
     y[49]     mccormick2[49]  -1
     y[49]     mccormick3[49]  1
-    y[50]     OBJ       -178
-    y[50]     primal_upper  78
+    y[50]     OBJ       -939
+    y[50]     primal_upper  416
     y[50]     mccormick2[50]  -1
     y[50]     mccormick3[50]  1
-    y[51]     OBJ       -882
-    y[51]     primal_upper  782
+    y[51]     OBJ       -290
+    y[51]     primal_upper  422
     y[51]     mccormick2[51]  -1
     y[51]     mccormick3[51]  1
-    y[52]     OBJ       -824
-    y[52]     primal_upper  724
+    y[52]     OBJ       -23
+    y[52]     primal_upper  319
     y[52]     mccormick2[52]  -1
     y[52]     mccormick3[52]  1
-    y[53]     OBJ       -608
-    y[53]     primal_upper  508
+    y[53]     OBJ       -917
+    y[53]     primal_upper  570
     y[53]     mccormick2[53]  -1
     y[53]     mccormick3[53]  1
-    y[54]     OBJ       -801
-    y[54]     primal_upper  701
+    y[54]     OBJ       -520
+    y[54]     primal_upper  402
     y[54]     mccormick2[54]  -1
     y[54]     mccormick3[54]  1
-    y[55]     OBJ       -643
-    y[55]     primal_upper  543
+    y[55]     OBJ       -650
+    y[55]     primal_upper  917
     y[55]     mccormick2[55]  -1
     y[55]     mccormick3[55]  1
-    y[56]     OBJ       -139
-    y[56]     primal_upper  39
+    y[56]     OBJ       -854
+    y[56]     primal_upper  803
     y[56]     mccormick2[56]  -1
     y[56]     mccormick3[56]  1
-    y[57]     OBJ       -682
-    y[57]     primal_upper  582
+    y[57]     OBJ       -900
+    y[57]     primal_upper  480
     y[57]     mccormick2[57]  -1
     y[57]     mccormick3[57]  1
-    y[58]     OBJ       -145
-    y[58]     primal_upper  45
+    y[58]     OBJ       -444
+    y[58]     primal_upper  550
     y[58]     mccormick2[58]  -1
     y[58]     mccormick3[58]  1
-    y[59]     OBJ       -420
-    y[59]     primal_upper  320
+    y[59]     OBJ       -515
+    y[59]     primal_upper  808
     y[59]     mccormick2[59]  -1
     y[59]     mccormick3[59]  1
     u[0]      primal_lower0  851
     u[0]      interdiction[0]  1
     u[0]      mccormick1[0]  -1
     u[0]      mccormick3[0]  1
-    u[1]      primal_lower0  156
+    u[1]      primal_lower0  276
     u[1]      interdiction[1]  1
     u[1]      mccormick1[1]  -1
     u[1]      mccormick3[1]  1
-    u[2]      primal_lower0  276
+    u[2]      primal_lower0  646
     u[2]      interdiction[2]  1
     u[2]      mccormick1[2]  -1
     u[2]      mccormick3[2]  1
-    u[3]      primal_lower0  928
+    u[3]      primal_lower0  915
     u[3]      interdiction[3]  1
     u[3]      mccormick1[3]  -1
     u[3]      mccormick3[3]  1
-    u[4]      primal_lower0  646
+    u[4]      primal_lower0  192
     u[4]      interdiction[4]  1
     u[4]      mccormick1[4]  -1
     u[4]      mccormick3[4]  1
-    u[5]      primal_lower0  390
+    u[5]      primal_lower0  577
     u[5]      interdiction[5]  1
     u[5]      mccormick1[5]  -1
     u[5]      mccormick3[5]  1
-    u[6]      primal_lower0  915
+    u[6]      primal_lower0  937
     u[6]      interdiction[6]  1
     u[6]      mccormick1[6]  -1
     u[6]      mccormick3[6]  1
-    u[7]      primal_lower0  958
+    u[7]      primal_lower0  275
     u[7]      interdiction[7]  1
     u[7]      mccormick1[7]  -1
     u[7]      mccormick3[7]  1
-    u[8]      primal_lower0  192
+    u[8]      primal_lower0  553
     u[8]      interdiction[8]  1
     u[8]      mccormick1[8]  -1
     u[8]      mccormick3[8]  1
-    u[9]      primal_lower0  807
+    u[9]      primal_lower0  962
     u[9]      interdiction[9]  1
     u[9]      mccormick1[9]  -1
     u[9]      mccormick3[9]  1
-    u[10]     primal_lower0  577
+    u[10]     primal_lower0  351
     u[10]     interdiction[10]  1
     u[10]     mccormick1[10]  -1
     u[10]     mccormick3[10]  1
-    u[11]     primal_lower0  707
+    u[11]     primal_lower0  243
     u[11]     interdiction[11]  1
     u[11]     mccormick1[11]  -1
     u[11]     mccormick3[11]  1
-    u[12]     primal_lower0  937
+    u[12]     primal_lower0  952
     u[12]     interdiction[12]  1
     u[12]     mccormick1[12]  -1
     u[12]     mccormick3[12]  1
-    u[13]     primal_lower0  183
+    u[13]     primal_lower0  324
     u[13]     interdiction[13]  1
     u[13]     mccormick1[13]  -1
     u[13]     mccormick3[13]  1
-    u[14]     primal_lower0  275
+    u[14]     primal_lower0  248
     u[14]     interdiction[14]  1
     u[14]     mccormick1[14]  -1
     u[14]     mccormick3[14]  1
-    u[15]     primal_lower0  453
+    u[15]     primal_lower0  324
     u[15]     interdiction[15]  1
     u[15]     mccormick1[15]  -1
     u[15]     mccormick3[15]  1
-    u[16]     primal_lower0  553
+    u[16]     primal_lower0  417
     u[16]     interdiction[16]  1
     u[16]     mccormick1[16]  -1
     u[16]     mccormick3[16]  1
-    u[17]     primal_lower0  236
+    u[17]     primal_lower0  672
     u[17]     interdiction[17]  1
     u[17]     mccormick1[17]  -1
     u[17]     mccormick3[17]  1
-    u[18]     primal_lower0  962
+    u[18]     primal_lower0  789
     u[18]     interdiction[18]  1
     u[18]     mccormick1[18]  -1
     u[18]     mccormick3[18]  1
-    u[19]     primal_lower0  68
+    u[19]     primal_lower0  614
     u[19]     interdiction[19]  1
     u[19]     mccormick1[19]  -1
     u[19]     mccormick3[19]  1
-    u[20]     primal_lower0  351
+    u[20]     primal_lower0  177
     u[20]     interdiction[20]  1
     u[20]     mccormick1[20]  -1
     u[20]     mccormick3[20]  1
-    u[21]     primal_lower0  229
+    u[21]     primal_lower0  623
     u[21]     interdiction[21]  1
     u[21]     mccormick1[21]  -1
     u[21]     mccormick3[21]  1
-    u[22]     primal_lower0  243
+    u[22]     primal_lower0  360
     u[22]     interdiction[22]  1
     u[22]     mccormick1[22]  -1
     u[22]     mccormick3[22]  1
-    u[23]     primal_lower0  541
+    u[23]     primal_lower0  742
     u[23]     interdiction[23]  1
     u[23]     mccormick1[23]  -1
     u[23]     mccormick3[23]  1
-    u[24]     primal_lower0  952
+    u[24]     primal_lower0  248
     u[24]     interdiction[24]  1
     u[24]     mccormick1[24]  -1
     u[24]     mccormick3[24]  1
-    u[25]     primal_lower0  657
+    u[25]     primal_lower0  480
     u[25]     interdiction[25]  1
     u[25]     mccormick1[25]  -1
     u[25]     mccormick3[25]  1
-    u[26]     primal_lower0  324
+    u[26]     primal_lower0  782
     u[26]     interdiction[26]  1
     u[26]     mccormick1[26]  -1
     u[26]     mccormick3[26]  1
-    u[27]     primal_lower0  492
+    u[27]     primal_lower0  495
     u[27]     interdiction[27]  1
     u[27]     mccormick1[27]  -1
     u[27]     mccormick3[27]  1
-    u[28]     primal_lower0  248
+    u[28]     primal_lower0  513
     u[28]     interdiction[28]  1
     u[28]     mccormick1[28]  -1
     u[28]     mccormick3[28]  1
-    u[29]     primal_lower0  69
+    u[29]     primal_lower0  223
     u[29]     interdiction[29]  1
     u[29]     mccormick1[29]  -1
     u[29]     mccormick3[29]  1
-    u[30]     primal_lower0  324
+    u[30]     primal_lower0  757
     u[30]     interdiction[30]  1
     u[30]     mccormick1[30]  -1
     u[30]     mccormick3[30]  1
-    u[31]     primal_lower0  702
+    u[31]     primal_lower0  731
     u[31]     interdiction[31]  1
     u[31]     mccormick1[31]  -1
     u[31]     mccormick3[31]  1
-    u[32]     primal_lower0  417
+    u[32]     primal_lower0  327
     u[32]     interdiction[32]  1
     u[32]     mccormick1[32]  -1
     u[32]     mccormick3[32]  1
-    u[33]     primal_lower0  308
+    u[33]     primal_lower0  405
     u[33]     interdiction[33]  1
     u[33]     mccormick1[33]  -1
     u[33]     mccormick3[33]  1
-    u[34]     primal_lower0  672
+    u[34]     primal_lower0  760
     u[34]     interdiction[34]  1
     u[34]     mccormick1[34]  -1
     u[34]     mccormick3[34]  1
-    u[35]     primal_lower0  796
+    u[35]     primal_lower0  497
     u[35]     interdiction[35]  1
     u[35]     mccormick1[35]  -1
     u[35]     mccormick3[35]  1
-    u[36]     primal_lower0  789
+    u[36]     primal_lower0  656
     u[36]     interdiction[36]  1
     u[36]     mccormick1[36]  -1
     u[36]     mccormick3[36]  1
-    u[37]     primal_lower0  912
+    u[37]     primal_lower0  12
     u[37]     interdiction[37]  1
     u[37]     mccormick1[37]  -1
     u[37]     mccormick3[37]  1
-    u[38]     primal_lower0  614
+    u[38]     primal_lower0  328
     u[38]     interdiction[38]  1
     u[38]     mccormick1[38]  -1
     u[38]     mccormick3[38]  1
-    u[39]     primal_lower0  491
+    u[39]     primal_lower0  398
     u[39]     interdiction[39]  1
     u[39]     mccormick1[39]  -1
     u[39]     mccormick3[39]  1
-    u[40]     primal_lower0  177
+    u[40]     primal_lower0  195
     u[40]     interdiction[40]  1
     u[40]     mccormick1[40]  -1
     u[40]     mccormick3[40]  1
-    u[41]     primal_lower0  71
+    u[41]     primal_lower0  345
     u[41]     interdiction[41]  1
     u[41]     mccormick1[41]  -1
     u[41]     mccormick3[41]  1
-    u[42]     primal_lower0  623
+    u[42]     primal_lower0  322
     u[42]     interdiction[42]  1
     u[42]     mccormick1[42]  -1
     u[42]     mccormick3[42]  1
-    u[43]     primal_lower0  17
+    u[43]     primal_lower0  173
     u[43]     interdiction[43]  1
     u[43]     mccormick1[43]  -1
     u[43]     mccormick3[43]  1
-    u[44]     primal_lower0  360
+    u[44]     primal_lower0  243
     u[44]     interdiction[44]  1
     u[44]     mccormick1[44]  -1
     u[44]     mccormick3[44]  1
-    u[45]     primal_lower0  594
+    u[45]     primal_lower0  906
     u[45]     interdiction[45]  1
     u[45]     mccormick1[45]  -1
     u[45]     mccormick3[45]  1
-    u[46]     primal_lower0  742
+    u[46]     primal_lower0  733
     u[46]     interdiction[46]  1
     u[46]     mccormick1[46]  -1
     u[46]     mccormick3[46]  1
-    u[47]     primal_lower0  538
+    u[47]     primal_lower0  761
     u[47]     interdiction[47]  1
     u[47]     mccormick1[47]  -1
     u[47]     mccormick3[47]  1
-    u[48]     primal_lower0  248
+    u[48]     primal_lower0  339
     u[48]     interdiction[48]  1
     u[48]     mccormick1[48]  -1
     u[48]     mccormick3[48]  1
-    u[49]     primal_lower0  279
+    u[49]     primal_lower0  176
     u[49]     interdiction[49]  1
     u[49]     mccormick1[49]  -1
     u[49]     mccormick3[49]  1
-    u[50]     primal_lower0  480
+    u[50]     primal_lower0  970
     u[50]     interdiction[50]  1
     u[50]     mccormick1[50]  -1
     u[50]     mccormick3[50]  1
-    u[51]     primal_lower0  928
+    u[51]     primal_lower0  728
     u[51]     interdiction[51]  1
     u[51]     mccormick1[51]  -1
     u[51]     mccormick3[51]  1
-    u[52]     primal_lower0  782
+    u[52]     primal_lower0  417
     u[52]     interdiction[52]  1
     u[52]     mccormick1[52]  -1
     u[52]     mccormick3[52]  1
-    u[53]     primal_lower0  718
+    u[53]     primal_lower0  572
     u[53]     interdiction[53]  1
     u[53]     mccormick1[53]  -1
     u[53]     mccormick3[53]  1
-    u[54]     primal_lower0  495
+    u[54]     primal_lower0  316
     u[54]     interdiction[54]  1
     u[54]     mccormick1[54]  -1
     u[54]     mccormick3[54]  1
-    u[55]     primal_lower0  561
+    u[55]     primal_lower0  511
     u[55]     interdiction[55]  1
     u[55]     mccormick1[55]  -1
     u[55]     mccormick3[55]  1
-    u[56]     primal_lower0  513
+    u[56]     primal_lower0  573
     u[56]     interdiction[56]  1
     u[56]     mccormick1[56]  -1
     u[56]     mccormick3[56]  1
-    u[57]     primal_lower0  8
+    u[57]     primal_lower0  866
     u[57]     interdiction[57]  1
     u[57]     mccormick1[57]  -1
     u[57]     mccormick3[57]  1
-    u[58]     primal_lower0  223
+    u[58]     primal_lower0  8
     u[58]     interdiction[58]  1
     u[58]     mccormick1[58]  -1
     u[58]     mccormick3[58]  1
-    u[59]     primal_lower0  370
+    u[59]     primal_lower0  130
     u[59]     interdiction[59]  1
     u[59]     mccormick1[59]  -1
     u[59]     mccormick3[59]  1
@@ -850,246 +850,246 @@ COLUMNS
     z[0]      mccormick1[0]  1
     z[0]      mccormick2[0]  1
     z[0]      mccormick3[0]  -1
-    z[1]      primal_upper  61
+    z[1]      primal_upper  41
     z[1]      mccormick1[1]  1
     z[1]      mccormick2[1]  1
     z[1]      mccormick3[1]  -1
-    z[2]      primal_upper  41
+    z[2]      primal_upper  88
     z[2]      mccormick1[2]  1
     z[2]      mccormick2[2]  1
     z[2]      mccormick3[2]  -1
-    z[3]      primal_upper  54
+    z[3]      primal_upper  70
     z[3]      mccormick1[3]  1
     z[3]      mccormick2[3]  1
     z[3]      mccormick3[3]  -1
-    z[4]      primal_upper  88
+    z[4]      primal_upper  51
     z[4]      mccormick1[4]  1
     z[4]      mccormick2[4]  1
     z[4]      mccormick3[4]  -1
-    z[5]      primal_upper  46
+    z[5]      primal_upper  98
     z[5]      mccormick1[5]  1
     z[5]      mccormick2[5]  1
     z[5]      mccormick3[5]  -1
-    z[6]      primal_upper  70
+    z[6]      primal_upper  55
     z[6]      mccormick1[6]  1
     z[6]      mccormick2[6]  1
     z[6]      mccormick3[6]  -1
-    z[7]      primal_upper  69
+    z[7]      primal_upper  48
     z[7]      mccormick1[7]  1
     z[7]      mccormick2[7]  1
     z[7]      mccormick3[7]  -1
-    z[8]      primal_upper  51
+    z[8]      primal_upper  22
     z[8]      mccormick1[8]  1
     z[8]      mccormick2[8]  1
     z[8]      mccormick3[8]  -1
-    z[9]      primal_upper  83
+    z[9]      primal_upper  78
     z[9]      mccormick1[9]  1
     z[9]      mccormick2[9]  1
     z[9]      mccormick3[9]  -1
-    z[10]     primal_upper  98
+    z[10]     primal_upper  36
     z[10]     mccormick1[10]  1
     z[10]     mccormick2[10]  1
     z[10]     mccormick3[10]  -1
-    z[11]     primal_upper  53
+    z[11]     primal_upper  54
     z[11]     mccormick1[11]  1
     z[11]     mccormick2[11]  1
     z[11]     mccormick3[11]  -1
-    z[12]     primal_upper  55
+    z[12]     primal_upper  100
     z[12]     mccormick1[12]  1
     z[12]     mccormick2[12]  1
     z[12]     mccormick3[12]  -1
-    z[13]     primal_upper  25
+    z[13]     primal_upper  83
     z[13]     mccormick1[13]  1
     z[13]     mccormick2[13]  1
     z[13]     mccormick3[13]  -1
-    z[14]     primal_upper  48
+    z[14]     primal_upper  98
     z[14]     mccormick1[14]  1
     z[14]     mccormick2[14]  1
     z[14]     mccormick3[14]  -1
-    z[15]     primal_upper  52
+    z[15]     primal_upper  36
     z[15]     mccormick1[15]  1
     z[15]     mccormick2[15]  1
     z[15]     mccormick3[15]  -1
-    z[16]     primal_upper  22
+    z[16]     primal_upper  65
     z[16]     mccormick1[16]  1
     z[16]     mccormick2[16]  1
     z[16]     mccormick3[16]  -1
-    z[17]     primal_upper  75
+    z[17]     primal_upper  89
     z[17]     mccormick1[17]  1
     z[17]     mccormick2[17]  1
     z[17]     mccormick3[17]  -1
-    z[18]     primal_upper  78
+    z[18]     primal_upper  64
     z[18]     mccormick1[18]  1
     z[18]     mccormick2[18]  1
     z[18]     mccormick3[18]  -1
-    z[19]     primal_upper  76
+    z[19]     primal_upper  71
     z[19]     mccormick1[19]  1
     z[19]     mccormick2[19]  1
     z[19]     mccormick3[19]  -1
-    z[20]     primal_upper  36
+    z[20]     primal_upper  6
     z[20]     mccormick1[20]  1
     z[20]     mccormick2[20]  1
     z[20]     mccormick3[20]  -1
-    z[21]     primal_upper  16
+    z[21]     primal_upper  11
     z[21]     mccormick1[21]  1
     z[21]     mccormick2[21]  1
     z[21]     mccormick3[21]  -1
-    z[22]     primal_upper  54
+    z[22]     primal_upper  27
     z[22]     mccormick1[22]  1
     z[22]     mccormick2[22]  1
     z[22]     mccormick3[22]  -1
-    z[23]     primal_upper  96
+    z[23]     primal_upper  84
     z[23]     mccormick1[23]  1
     z[23]     mccormick2[23]  1
     z[23]     mccormick3[23]  -1
-    z[24]     primal_upper  100
+    z[24]     primal_upper  10
     z[24]     mccormick1[24]  1
     z[24]     mccormick2[24]  1
     z[24]     mccormick3[24]  -1
-    z[25]     primal_upper  44
+    z[25]     primal_upper  8
     z[25]     mccormick1[25]  1
     z[25]     mccormick2[25]  1
     z[25]     mccormick3[25]  -1
-    z[26]     primal_upper  83
+    z[26]     primal_upper  72
     z[26]     mccormick1[26]  1
     z[26]     mccormick2[26]  1
     z[26]     mccormick3[26]  -1
-    z[27]     primal_upper  60
+    z[27]     primal_upper  70
     z[27]     mccormick1[27]  1
     z[27]     mccormick2[27]  1
     z[27]     mccormick3[27]  -1
-    z[28]     primal_upper  98
+    z[28]     primal_upper  4
     z[28]     mccormick1[28]  1
     z[28]     mccormick2[28]  1
     z[28]     mccormick3[28]  -1
-    z[29]     primal_upper  21
+    z[29]     primal_upper  4
     z[29]     mccormick1[29]  1
     z[29]     mccormick2[29]  1
     z[29]     mccormick3[29]  -1
-    z[30]     primal_upper  36
+    z[30]     primal_upper  21
     z[30]     mccormick1[30]  1
     z[30]     mccormick2[30]  1
     z[30]     mccormick3[30]  -1
-    z[31]     primal_upper  36
+    z[31]     primal_upper  6
     z[31]     mccormick1[31]  1
     z[31]     mccormick2[31]  1
     z[31]     mccormick3[31]  -1
-    z[32]     primal_upper  65
+    z[32]     primal_upper  44
     z[32]     mccormick1[32]  1
     z[32]     mccormick2[32]  1
     z[32]     mccormick3[32]  -1
-    z[33]     primal_upper  10
+    z[33]     primal_upper  87
     z[33]     mccormick1[33]  1
     z[33]     mccormick2[33]  1
     z[33]     mccormick3[33]  -1
-    z[34]     primal_upper  89
+    z[34]     primal_upper  22
     z[34]     mccormick1[34]  1
     z[34]     mccormick2[34]  1
     z[34]     mccormick3[34]  -1
-    z[35]     primal_upper  80
+    z[35]     primal_upper  33
     z[35]     mccormick1[35]  1
     z[35]     mccormick2[35]  1
     z[35]     mccormick3[35]  -1
-    z[36]     primal_upper  64
+    z[36]     primal_upper  11
     z[36]     mccormick1[36]  1
     z[36]     mccormick2[36]  1
     z[36]     mccormick3[36]  -1
-    z[37]     primal_upper  9
+    z[37]     primal_upper  15
     z[37]     mccormick1[37]  1
     z[37]     mccormick2[37]  1
     z[37]     mccormick3[37]  -1
-    z[38]     primal_upper  71
+    z[38]     primal_upper  44
     z[38]     mccormick1[38]  1
     z[38]     mccormick2[38]  1
     z[38]     mccormick3[38]  -1
-    z[39]     primal_upper  8
+    z[39]     primal_upper  40
     z[39]     mccormick1[39]  1
     z[39]     mccormick2[39]  1
     z[39]     mccormick3[39]  -1
-    z[40]     primal_upper  6
+    z[40]     primal_upper  34
     z[40]     mccormick1[40]  1
     z[40]     mccormick2[40]  1
     z[40]     mccormick3[40]  -1
-    z[41]     primal_upper  40
+    z[41]     primal_upper  93
     z[41]     mccormick1[41]  1
     z[41]     mccormick2[41]  1
     z[41]     mccormick3[41]  -1
-    z[42]     primal_upper  11
+    z[42]     primal_upper  64
     z[42]     mccormick1[42]  1
     z[42]     mccormick2[42]  1
     z[42]     mccormick3[42]  -1
-    z[43]     primal_upper  66
+    z[43]     primal_upper  99
     z[43]     mccormick1[43]  1
     z[43]     mccormick2[43]  1
     z[43]     mccormick3[43]  -1
-    z[44]     primal_upper  27
+    z[44]     primal_upper  30
     z[44]     mccormick1[44]  1
     z[44]     mccormick2[44]  1
     z[44]     mccormick3[44]  -1
-    z[45]     primal_upper  5
+    z[45]     primal_upper  97
     z[45]     mccormick1[45]  1
     z[45]     mccormick2[45]  1
     z[45]     mccormick3[45]  -1
-    z[46]     primal_upper  84
+    z[46]     primal_upper  25
     z[46]     mccormick1[46]  1
     z[46]     mccormick2[46]  1
     z[46]     mccormick3[46]  -1
-    z[47]     primal_upper  98
+    z[47]     primal_upper  19
     z[47]     mccormick1[47]  1
     z[47]     mccormick2[47]  1
     z[47]     mccormick3[47]  -1
-    z[48]     primal_upper  10
+    z[48]     primal_upper  2
     z[48]     mccormick1[48]  1
     z[48]     mccormick2[48]  1
     z[48]     mccormick3[48]  -1
-    z[49]     primal_upper  76
+    z[49]     primal_upper  92
     z[49]     mccormick1[49]  1
     z[49]     mccormick2[49]  1
     z[49]     mccormick3[49]  -1
-    z[50]     primal_upper  8
+    z[50]     primal_upper  42
     z[50]     mccormick1[50]  1
     z[50]     mccormick2[50]  1
     z[50]     mccormick3[50]  -1
-    z[51]     primal_upper  78
+    z[51]     primal_upper  42
     z[51]     mccormick1[51]  1
     z[51]     mccormick2[51]  1
     z[51]     mccormick3[51]  -1
-    z[52]     primal_upper  72
+    z[52]     primal_upper  32
     z[52]     mccormick1[52]  1
     z[52]     mccormick2[52]  1
     z[52]     mccormick3[52]  -1
-    z[53]     primal_upper  51
+    z[53]     primal_upper  57
     z[53]     mccormick1[53]  1
     z[53]     mccormick2[53]  1
     z[53]     mccormick3[53]  -1
-    z[54]     primal_upper  70
+    z[54]     primal_upper  40
     z[54]     mccormick1[54]  1
     z[54]     mccormick2[54]  1
     z[54]     mccormick3[54]  -1
-    z[55]     primal_upper  54
+    z[55]     primal_upper  92
     z[55]     mccormick1[55]  1
     z[55]     mccormick2[55]  1
     z[55]     mccormick3[55]  -1
-    z[56]     primal_upper  4
+    z[56]     primal_upper  80
     z[56]     mccormick1[56]  1
     z[56]     mccormick2[56]  1
     z[56]     mccormick3[56]  -1
-    z[57]     primal_upper  58
+    z[57]     primal_upper  48
     z[57]     mccormick1[57]  1
     z[57]     mccormick2[57]  1
     z[57]     mccormick3[57]  -1
-    z[58]     primal_upper  4
+    z[58]     primal_upper  55
     z[58]     mccormick1[58]  1
     z[58]     mccormick2[58]  1
     z[58]     mccormick3[58]  -1
-    z[59]     primal_upper  32
+    z[59]     primal_upper  81
     z[59]     mccormick1[59]  1
     z[59]     mccormick2[59]  1
     z[59]     mccormick3[59]  -1
     MARKER    'MARKER'                 'INTEND'
 RHS
-    RHS1      primal_upper  15700
-    RHS1      primal_lower0  962
+    RHS1      primal_upper  15274
+    RHS1      primal_lower0  970
     RHS1      interdiction[0]  1
     RHS1      interdiction[1]  1
     RHS1      interdiction[2]  1

@@ -1,4 +1,4 @@
-* Signature: 0xbc4645de2e67806b
+* Signature: 0xbc4645de2e69e5ab
 NAME knapsack_60_10_4
 ROWS
  N  OBJ
@@ -255,1143 +255,1143 @@ ROWS
  L  mccormick3[59]
 COLUMNS
     MARKER    'MARKER'                 'INTORG'
-    x[0]      OBJ       16.95
+    x[0]      OBJ       10
     x[0]      interdiction[0]  1
-    x[1]      OBJ       20.75
+    x[1]      OBJ       10
     x[1]      interdiction[1]  1
-    x[2]      OBJ       157.75
+    x[2]      OBJ       10
     x[2]      interdiction[2]  1
-    x[3]      OBJ       13.99
+    x[3]      OBJ       10
     x[3]      interdiction[3]  1
-    x[4]      OBJ       22.41
+    x[4]      OBJ       10
     x[4]      interdiction[4]  1
-    x[5]      OBJ       126.72
+    x[5]      OBJ       10
     x[5]      interdiction[5]  1
-    x[6]      OBJ       66.65
+    x[6]      OBJ       10
     x[6]      interdiction[6]  1
-    x[7]      OBJ       64.43
+    x[7]      OBJ       10
     x[7]      interdiction[7]  1
-    x[8]      OBJ       51.15
+    x[8]      OBJ       10
     x[8]      interdiction[8]  1
-    x[9]      OBJ       44.7
+    x[9]      OBJ       10
     x[9]      interdiction[9]  1
-    x[10]     OBJ       122.46
+    x[10]     OBJ       10
     x[10]     interdiction[10]  1
-    x[11]     OBJ       85.85
+    x[11]     OBJ       10
     x[11]     interdiction[11]  1
-    x[12]     OBJ       167.27
+    x[12]     OBJ       10
     x[12]     interdiction[12]  1
-    x[13]     OBJ       77.6
+    x[13]     OBJ       10
     x[13]     interdiction[13]  1
-    x[14]     OBJ       124.93
+    x[14]     OBJ       10
     x[14]     interdiction[14]  1
-    x[15]     OBJ       169.58
+    x[15]     OBJ       10
     x[15]     interdiction[15]  1
-    x[16]     OBJ       106.59
+    x[16]     OBJ       10
     x[16]     interdiction[16]  1
-    x[17]     OBJ       37.97
+    x[17]     OBJ       10
     x[17]     interdiction[17]  1
-    x[18]     OBJ       64.56
+    x[18]     OBJ       10
     x[18]     interdiction[18]  1
-    x[19]     OBJ       84.97
+    x[19]     OBJ       10
     x[19]     interdiction[19]  1
-    x[20]     OBJ       53.66
+    x[20]     OBJ       10
     x[20]     interdiction[20]  1
-    x[21]     OBJ       103.21
+    x[21]     OBJ       10
     x[21]     interdiction[21]  1
-    x[22]     OBJ       52.85
+    x[22]     OBJ       10
     x[22]     interdiction[22]  1
-    x[23]     OBJ       56.13
+    x[23]     OBJ       10
     x[23]     interdiction[23]  1
-    x[24]     OBJ       58.77
+    x[24]     OBJ       10
     x[24]     interdiction[24]  1
-    x[25]     OBJ       93.15
+    x[25]     OBJ       10
     x[25]     interdiction[25]  1
-    x[26]     OBJ       59.04
+    x[26]     OBJ       10
     x[26]     interdiction[26]  1
-    x[27]     OBJ       127.35
+    x[27]     OBJ       10
     x[27]     interdiction[27]  1
-    x[28]     OBJ       70.29
+    x[28]     OBJ       10
     x[28]     interdiction[28]  1
-    x[29]     OBJ       141.88
+    x[29]     OBJ       10
     x[29]     interdiction[29]  1
-    x[30]     OBJ       82.27
+    x[30]     OBJ       10
     x[30]     interdiction[30]  1
-    x[31]     OBJ       89.53
+    x[31]     OBJ       10
     x[31]     interdiction[31]  1
-    x[32]     OBJ       55.69
+    x[32]     OBJ       10
     x[32]     interdiction[32]  1
-    x[33]     OBJ       131.69
+    x[33]     OBJ       10
     x[33]     interdiction[33]  1
-    x[34]     OBJ       45.91
+    x[34]     OBJ       10
     x[34]     interdiction[34]  1
-    x[35]     OBJ       169.25
+    x[35]     OBJ       10
     x[35]     interdiction[35]  1
-    x[36]     OBJ       50
+    x[36]     OBJ       10
     x[36]     interdiction[36]  1
-    x[37]     OBJ       39.8
+    x[37]     OBJ       10
     x[37]     interdiction[37]  1
-    x[38]     OBJ       47.92
+    x[38]     OBJ       10
     x[38]     interdiction[38]  1
-    x[39]     OBJ       111.27
+    x[39]     OBJ       10
     x[39]     interdiction[39]  1
-    x[40]     OBJ       17.01
+    x[40]     OBJ       10
     x[40]     interdiction[40]  1
-    x[41]     OBJ       84.09
+    x[41]     OBJ       10
     x[41]     interdiction[41]  1
-    x[42]     OBJ       126.54
+    x[42]     OBJ       10
     x[42]     interdiction[42]  1
-    x[43]     OBJ       115.44
+    x[43]     OBJ       10
     x[43]     interdiction[43]  1
-    x[44]     OBJ       45.62
+    x[44]     OBJ       10
     x[44]     interdiction[44]  1
-    x[45]     OBJ       49.71
+    x[45]     OBJ       10
     x[45]     interdiction[45]  1
-    x[46]     OBJ       129.67
+    x[46]     OBJ       10
     x[46]     interdiction[46]  1
-    x[47]     OBJ       152.69
+    x[47]     OBJ       10
     x[47]     interdiction[47]  1
-    x[48]     OBJ       43.16
+    x[48]     OBJ       10
     x[48]     interdiction[48]  1
-    x[49]     OBJ       75.83
+    x[49]     OBJ       10
     x[49]     interdiction[49]  1
-    x[50]     OBJ       47.12
+    x[50]     OBJ       10
     x[50]     interdiction[50]  1
-    x[51]     OBJ       79.2
+    x[51]     OBJ       10
     x[51]     interdiction[51]  1
-    x[52]     OBJ       186.44
+    x[52]     OBJ       10
     x[52]     interdiction[52]  1
-    x[53]     OBJ       72.2
+    x[53]     OBJ       10
     x[53]     interdiction[53]  1
-    x[54]     OBJ       39.36
+    x[54]     OBJ       10
     x[54]     interdiction[54]  1
-    x[55]     OBJ       185.68
+    x[55]     OBJ       10
     x[55]     interdiction[55]  1
-    x[56]     OBJ       44.27
+    x[56]     OBJ       10
     x[56]     interdiction[56]  1
-    x[57]     OBJ       119.45
+    x[57]     OBJ       10
     x[57]     interdiction[57]  1
-    x[58]     OBJ       113.03
+    x[58]     OBJ       10
     x[58]     interdiction[58]  1
-    x[59]     OBJ       83.67
+    x[59]     OBJ       10
     x[59]     interdiction[59]  1
-    y[0]      OBJ       -156
+    y[0]      OBJ       -29
     y[0]      primal_upper  56
     y[0]      mccormick2[0]  -1
     y[0]      mccormick3[0]  1
-    y[1]      OBJ       -129
-    y[1]      primal_upper  29
+    y[1]      OBJ       -33
+    y[1]      primal_upper  985
     y[1]      mccormick2[1]  -1
     y[1]      mccormick3[1]  1
-    y[2]      OBJ       -1085
-    y[2]      primal_upper  985
+    y[2]      OBJ       -855
+    y[2]      primal_upper  83
     y[2]      mccormick2[2]  -1
     y[2]      mccormick3[2]  1
-    y[3]      OBJ       -133
-    y[3]      primal_upper  33
+    y[3]      OBJ       -463
+    y[3]      primal_upper  400
     y[3]      mccormick2[3]  -1
     y[3]      mccormick3[3]  1
-    y[4]      OBJ       -183
-    y[4]      primal_upper  83
+    y[4]      OBJ       -160
+    y[4]      primal_upper  293
     y[4]      mccormick2[4]  -1
     y[4]      mccormick3[4]  1
-    y[5]      OBJ       -955
-    y[5]      primal_upper  855
+    y[5]      OBJ       -596
+    y[5]      primal_upper  574
     y[5]      mccormick2[5]  -1
     y[5]      mccormick3[5]  1
-    y[6]      OBJ       -500
-    y[6]      primal_upper  400
+    y[6]      OBJ       -536
+    y[6]      primal_upper  838
     y[6]      mccormick2[6]  -1
     y[6]      mccormick3[6]  1
-    y[7]      OBJ       -563
-    y[7]      primal_upper  463
+    y[7]      OBJ       -910
+    y[7]      primal_upper  664
     y[7]      mccormick2[7]  -1
     y[7]      mccormick3[7]  1
-    y[8]      OBJ       -393
-    y[8]      primal_upper  293
+    y[8]      OBJ       -157
+    y[8]      primal_upper  462
     y[8]      mccormick2[8]  -1
     y[8]      mccormick3[8]  1
-    y[9]      OBJ       -260
-    y[9]      primal_upper  160
+    y[9]      OBJ       -381
+    y[9]      primal_upper  407
     y[9]      mccormick2[9]  -1
     y[9]      mccormick3[9]  1
-    y[10]     OBJ       -674
-    y[10]     primal_upper  574
+    y[10]     OBJ       -462
+    y[10]     primal_upper  180
     y[10]     mccormick2[10]  -1
     y[10]     mccormick3[10]  1
-    y[11]     OBJ       -696
-    y[11]     primal_upper  596
+    y[11]     OBJ       -222
+    y[11]     primal_upper  288
     y[11]     mccormick2[11]  -1
     y[11]     mccormick3[11]  1
-    y[12]     OBJ       -938
-    y[12]     primal_upper  838
+    y[12]     OBJ       -746
+    y[12]     primal_upper  285
     y[12]     mccormick2[12]  -1
     y[12]     mccormick3[12]  1
-    y[13]     OBJ       -636
-    y[13]     primal_upper  536
+    y[13]     OBJ       -693
+    y[13]     primal_upper  401
     y[13]     mccormick2[13]  -1
     y[13]     mccormick3[13]  1
-    y[14]     OBJ       -764
-    y[14]     primal_upper  664
+    y[14]     OBJ       -766
+    y[14]     primal_upper  453
     y[14]     mccormick2[14]  -1
     y[14]     mccormick3[14]  1
-    y[15]     OBJ       -1010
-    y[15]     primal_upper  910
+    y[15]     OBJ       -455
+    y[15]     primal_upper  489
     y[15]     mccormick2[15]  -1
     y[15]     mccormick3[15]  1
-    y[16]     OBJ       -562
-    y[16]     primal_upper  462
+    y[16]     OBJ       -741
+    y[16]     primal_upper  430
     y[16]     mccormick2[16]  -1
     y[16]     mccormick3[16]  1
-    y[17]     OBJ       -257
-    y[17]     primal_upper  157
+    y[17]     OBJ       -829
+    y[17]     primal_upper  237
     y[17]     mccormick2[17]  -1
     y[17]     mccormick3[17]  1
-    y[18]     OBJ       -507
-    y[18]     primal_upper  407
+    y[18]     OBJ       -121
+    y[18]     primal_upper  266
     y[18]     mccormick2[18]  -1
     y[18]     mccormick3[18]  1
-    y[19]     OBJ       -481
-    y[19]     primal_upper  381
+    y[19]     OBJ       -780
+    y[19]     primal_upper  291
     y[19]     mccormick2[19]  -1
     y[19]     mccormick3[19]  1
-    y[20]     OBJ       -280
-    y[20]     primal_upper  180
+    y[20]     OBJ       -512
+    y[20]     primal_upper  54
     y[20]     mccormick2[20]  -1
     y[20]     mccormick3[20]  1
-    y[21]     OBJ       -562
-    y[21]     primal_upper  462
+    y[21]     OBJ       -578
+    y[21]     primal_upper  996
     y[21]     mccormick2[21]  -1
     y[21]     mccormick3[21]  1
-    y[22]     OBJ       -388
-    y[22]     primal_upper  288
+    y[22]     OBJ       -347
+    y[22]     primal_upper  237
     y[22]     mccormick2[22]  -1
     y[22]     mccormick3[22]  1
-    y[23]     OBJ       -322
-    y[23]     primal_upper  222
+    y[23]     OBJ       -811
+    y[23]     primal_upper  571
     y[23]     mccormick2[23]  -1
     y[23]     mccormick3[23]  1
-    y[24]     OBJ       -385
-    y[24]     primal_upper  285
+    y[24]     OBJ       -368
+    y[24]     primal_upper  277
     y[24]     mccormick2[24]  -1
     y[24]     mccormick3[24]  1
-    y[25]     OBJ       -846
-    y[25]     primal_upper  746
+    y[25]     OBJ       -457
+    y[25]     primal_upper  157
     y[25]     mccormick2[25]  -1
     y[25]     mccormick3[25]  1
-    y[26]     OBJ       -501
-    y[26]     primal_upper  401
+    y[26]     OBJ       -447
+    y[26]     primal_upper  939
     y[26]     mccormick2[26]  -1
     y[26]     mccormick3[26]  1
-    y[27]     OBJ       -793
-    y[27]     primal_upper  693
+    y[27]     OBJ       -866
+    y[27]     primal_upper  124
     y[27]     mccormick2[27]  -1
     y[27]     mccormick3[27]  1
-    y[28]     OBJ       -553
-    y[28]     primal_upper  453
+    y[28]     OBJ       -561
+    y[28]     primal_upper  126
     y[28]     mccormick2[28]  -1
     y[28]     mccormick3[28]  1
-    y[29]     OBJ       -866
-    y[29]     primal_upper  766
+    y[29]     OBJ       -355
+    y[29]     primal_upper  900
     y[29]     mccormick2[29]  -1
     y[29]     mccormick3[29]  1
-    y[30]     OBJ       -589
-    y[30]     primal_upper  489
+    y[30]     OBJ       -652
+    y[30]     primal_upper  50
     y[30]     mccormick2[30]  -1
     y[30]     mccormick3[30]  1
-    y[31]     OBJ       -555
-    y[31]     primal_upper  455
+    y[31]     OBJ       -283
+    y[31]     primal_upper  48
     y[31]     mccormick2[31]  -1
     y[31]     mccormick3[31]  1
-    y[32]     OBJ       -530
-    y[32]     primal_upper  430
+    y[32]     OBJ       -731
+    y[32]     primal_upper  108
     y[32]     mccormick2[32]  -1
     y[32]     mccormick3[32]  1
-    y[33]     OBJ       -841
-    y[33]     primal_upper  741
+    y[33]     OBJ       -522
+    y[33]     primal_upper  554
     y[33]     mccormick2[33]  -1
     y[33]     mccormick3[33]  1
-    y[34]     OBJ       -337
-    y[34]     primal_upper  237
+    y[34]     OBJ       -434
+    y[34]     primal_upper  157
     y[34]     mccormick2[34]  -1
     y[34]     mccormick3[34]  1
-    y[35]     OBJ       -929
-    y[35]     primal_upper  829
+    y[35]     OBJ       -600
+    y[35]     primal_upper  758
     y[35]     mccormick2[35]  -1
     y[35]     mccormick3[35]  1
-    y[36]     OBJ       -366
-    y[36]     primal_upper  266
+    y[36]     OBJ       -936
+    y[36]     primal_upper  661
     y[36]     mccormick2[36]  -1
     y[36]     mccormick3[36]  1
-    y[37]     OBJ       -221
-    y[37]     primal_upper  121
+    y[37]     OBJ       -314
+    y[37]     primal_upper  649
     y[37]     mccormick2[37]  -1
     y[37]     mccormick3[37]  1
-    y[38]     OBJ       -391
-    y[38]     primal_upper  291
+    y[38]     OBJ       -965
+    y[38]     primal_upper  917
     y[38]     mccormick2[38]  -1
     y[38]     mccormick3[38]  1
-    y[39]     OBJ       -880
-    y[39]     primal_upper  780
+    y[39]     OBJ       -406
+    y[39]     primal_upper  811
     y[39]     mccormick2[39]  -1
     y[39]     mccormick3[39]  1
-    y[40]     OBJ       -154
-    y[40]     primal_upper  54
+    y[40]     OBJ       -771
+    y[40]     primal_upper  536
     y[40]     mccormick2[40]  -1
     y[40]     mccormick3[40]  1
-    y[41]     OBJ       -612
-    y[41]     primal_upper  512
+    y[41]     OBJ       -168
+    y[41]     primal_upper  246
     y[41]     mccormick2[41]  -1
     y[41]     mccormick3[41]  1
-    y[42]     OBJ       -1096
-    y[42]     primal_upper  996
+    y[42]     OBJ       -96
+    y[42]     primal_upper  783
     y[42]     mccormick2[42]  -1
     y[42]     mccormick3[42]  1
-    y[43]     OBJ       -678
-    y[43]     primal_upper  578
+    y[43]     OBJ       -254
+    y[43]     primal_upper  714
     y[43]     mccormick2[43]  -1
     y[43]     mccormick3[43]  1
-    y[44]     OBJ       -337
-    y[44]     primal_upper  237
+    y[44]     OBJ       -161
+    y[44]     primal_upper  496
     y[44]     mccormick2[44]  -1
     y[44]     mccormick3[44]  1
-    y[45]     OBJ       -447
-    y[45]     primal_upper  347
+    y[45]     OBJ       -494
+    y[45]     primal_upper  695
     y[45]     mccormick2[45]  -1
     y[45]     mccormick3[45]  1
-    y[46]     OBJ       -671
-    y[46]     primal_upper  571
+    y[46]     OBJ       -339
+    y[46]     primal_upper  562
     y[46]     mccormick2[46]  -1
     y[46]     mccormick3[46]  1
-    y[47]     OBJ       -911
-    y[47]     primal_upper  811
+    y[47]     OBJ       -15
+    y[47]     primal_upper  830
     y[47]     mccormick2[47]  -1
     y[47]     mccormick3[47]  1
-    y[48]     OBJ       -377
-    y[48]     primal_upper  277
+    y[48]     OBJ       -387
+    y[48]     primal_upper  224
     y[48]     mccormick2[48]  -1
     y[48]     mccormick3[48]  1
-    y[49]     OBJ       -468
-    y[49]     primal_upper  368
+    y[49]     OBJ       -964
+    y[49]     primal_upper  781
     y[49]     mccormick2[49]  -1
     y[49]     mccormick3[49]  1
-    y[50]     OBJ       -257
-    y[50]     primal_upper  157
+    y[50]     OBJ       -470
+    y[50]     primal_upper  951
     y[50]     mccormick2[50]  -1
     y[50]     mccormick3[50]  1
-    y[51]     OBJ       -557
-    y[51]     primal_upper  457
+    y[51]     OBJ       -645
+    y[51]     primal_upper  845
     y[51]     mccormick2[51]  -1
     y[51]     mccormick3[51]  1
-    y[52]     OBJ       -1039
-    y[52]     primal_upper  939
+    y[52]     OBJ       -394
+    y[52]     primal_upper  542
     y[52]     mccormick2[52]  -1
     y[52]     mccormick3[52]  1
-    y[53]     OBJ       -547
-    y[53]     primal_upper  447
+    y[53]     OBJ       -384
+    y[53]     primal_upper  305
     y[53]     mccormick2[53]  -1
     y[53]     mccormick3[53]  1
-    y[54]     OBJ       -224
-    y[54]     primal_upper  124
+    y[54]     OBJ       -419
+    y[54]     primal_upper  713
     y[54]     mccormick2[54]  -1
     y[54]     mccormick3[54]  1
-    y[55]     OBJ       -966
-    y[55]     primal_upper  866
+    y[55]     OBJ       -973
+    y[55]     primal_upper  340
     y[55]     mccormick2[55]  -1
     y[55]     mccormick3[55]  1
-    y[56]     OBJ       -226
-    y[56]     primal_upper  126
+    y[56]     OBJ       -721
+    y[56]     primal_upper  338
     y[56]     mccormick2[56]  -1
     y[56]     mccormick3[56]  1
-    y[57]     OBJ       -661
-    y[57]     primal_upper  561
+    y[57]     OBJ       -455
+    y[57]     primal_upper  775
     y[57]     mccormick2[57]  -1
     y[57]     mccormick3[57]  1
-    y[58]     OBJ       -1000
-    y[58]     primal_upper  900
+    y[58]     OBJ       -335
+    y[58]     primal_upper  493
     y[58]     mccormick2[58]  -1
     y[58]     mccormick3[58]  1
-    y[59]     OBJ       -455
-    y[59]     primal_upper  355
+    y[59]     OBJ       -118
+    y[59]     primal_upper  855
     y[59]     mccormick2[59]  -1
     y[59]     mccormick3[59]  1
     u[0]      primal_lower0  640
-    u[0]      primal_lower1  58
-    u[0]      primal_lower2  417
-    u[0]      primal_lower3  47
-    u[0]      primal_lower4  73
-    u[0]      primal_lower5  359
-    u[0]      primal_lower6  679
-    u[0]      primal_lower7  822
-    u[0]      primal_lower8  668
-    u[0]      primal_lower9  24
+    u[0]      primal_lower1  673
+    u[0]      primal_lower2  518
+    u[0]      primal_lower3  100
+    u[0]      primal_lower4  37
+    u[0]      primal_lower5  278
+    u[0]      primal_lower6  694
+    u[0]      primal_lower7  606
+    u[0]      primal_lower8  6
+    u[0]      primal_lower9  807
     u[0]      interdiction[0]  1
     u[0]      mccormick1[0]  -1
     u[0]      mccormick3[0]  1
-    u[1]      primal_lower0  469
-    u[1]      primal_lower1  967
-    u[1]      primal_lower2  122
-    u[1]      primal_lower3  369
-    u[1]      primal_lower4  795
-    u[1]      primal_lower5  673
-    u[1]      primal_lower6  992
-    u[1]      primal_lower7  123
-    u[1]      primal_lower8  249
-    u[1]      primal_lower9  997
+    u[1]      primal_lower0  785
+    u[1]      primal_lower1  469
+    u[1]      primal_lower2  642
+    u[1]      primal_lower3  277
+    u[1]      primal_lower4  329
+    u[1]      primal_lower5  463
+    u[1]      primal_lower6  279
+    u[1]      primal_lower7  882
+    u[1]      primal_lower8  311
+    u[1]      primal_lower9  536
     u[1]      interdiction[1]  1
     u[1]      mccormick1[1]  -1
     u[1]      mccormick3[1]  1
-    u[2]      primal_lower0  785
-    u[2]      primal_lower1  171
-    u[2]      primal_lower2  554
-    u[2]      primal_lower3  755
-    u[2]      primal_lower4  789
-    u[2]      primal_lower5  515
-    u[2]      primal_lower6  696
-    u[2]      primal_lower7  223
-    u[2]      primal_lower8  741
-    u[2]      primal_lower9  817
+    u[2]      primal_lower0  35
+    u[2]      primal_lower1  875
+    u[2]      primal_lower2  48
+    u[2]      primal_lower3  511
+    u[2]      primal_lower4  191
+    u[2]      primal_lower5  993
+    u[2]      primal_lower6  625
+    u[2]      primal_lower7  336
+    u[2]      primal_lower8  81
+    u[2]      primal_lower9  730
     u[2]      interdiction[2]  1
     u[2]      mccormick1[2]  -1
     u[2]      mccormick3[2]  1
-    u[3]      primal_lower0  905
-    u[3]      primal_lower1  827
-    u[3]      primal_lower2  350
-    u[3]      primal_lower3  322
-    u[3]      primal_lower4  844
-    u[3]      primal_lower5  674
-    u[3]      primal_lower6  444
-    u[3]      primal_lower7  383
-    u[3]      primal_lower8  965
-    u[3]      primal_lower9  657
+    u[3]      primal_lower0  880
+    u[3]      primal_lower1  500
+    u[3]      primal_lower2  153
+    u[3]      primal_lower3  580
+    u[3]      primal_lower4  32
+    u[3]      primal_lower5  702
+    u[3]      primal_lower6  246
+    u[3]      primal_lower7  265
+    u[3]      primal_lower8  46
+    u[3]      primal_lower9  903
     u[3]      interdiction[3]  1
     u[3]      mccormick1[3]  -1
     u[3]      mccormick3[3]  1
-    u[4]      primal_lower0  35
-    u[4]      primal_lower1  77
-    u[4]      primal_lower2  788
-    u[4]      primal_lower3  489
-    u[4]      primal_lower4  555
-    u[4]      primal_lower5  537
-    u[4]      primal_lower6  146
-    u[4]      primal_lower7  457
-    u[4]      primal_lower8  983
-    u[4]      primal_lower9  363
+    u[4]      primal_lower0  69
+    u[4]      primal_lower1  525
+    u[4]      primal_lower2  562
+    u[4]      primal_lower3  241
+    u[4]      primal_lower4  721
+    u[4]      primal_lower5  219
+    u[4]      primal_lower6  419
+    u[4]      primal_lower7  882
+    u[4]      primal_lower8  99
+    u[4]      primal_lower9  332
     u[4]      interdiction[4]  1
     u[4]      mccormick1[4]  -1
     u[4]      mccormick3[4]  1
-    u[5]      primal_lower0  319
-    u[5]      primal_lower1  585
-    u[5]      primal_lower2  300
-    u[5]      primal_lower3  283
-    u[5]      primal_lower4  517
-    u[5]      primal_lower5  859
-    u[5]      primal_lower6  450
-    u[5]      primal_lower7  301
-    u[5]      primal_lower8  379
-    u[5]      primal_lower9  383
+    u[5]      primal_lower0  206
+    u[5]      primal_lower1  827
+    u[5]      primal_lower2  960
+    u[5]      primal_lower3  810
+    u[5]      primal_lower4  47
+    u[5]      primal_lower5  876
+    u[5]      primal_lower6  380
+    u[5]      primal_lower7  680
+    u[5]      primal_lower8  836
+    u[5]      primal_lower9  837
     u[5]      interdiction[5]  1
     u[5]      mccormick1[5]  -1
     u[5]      mccormick3[5]  1
-    u[6]      primal_lower0  880
-    u[6]      primal_lower1  314
-    u[6]      primal_lower2  897
-    u[6]      primal_lower3  754
-    u[6]      primal_lower4  348
-    u[6]      primal_lower5  562
-    u[6]      primal_lower6  343
-    u[6]      primal_lower7  926
-    u[6]      primal_lower8  612
-    u[6]      primal_lower9  408
+    u[6]      primal_lower0  134
+    u[6]      primal_lower1  702
+    u[6]      primal_lower2  795
+    u[6]      primal_lower3  946
+    u[6]      primal_lower4  146
+    u[6]      primal_lower5  572
+    u[6]      primal_lower6  684
+    u[6]      primal_lower7  659
+    u[6]      primal_lower8  676
+    u[6]      primal_lower9  637
     u[6]      interdiction[6]  1
     u[6]      mccormick1[6]  -1
     u[6]      mccormick3[6]  1
-    u[7]      primal_lower0  79
-    u[7]      primal_lower1  753
-    u[7]      primal_lower2  516
-    u[7]      primal_lower3  423
-    u[7]      primal_lower4  929
-    u[7]      primal_lower5  847
-    u[7]      primal_lower6  426
-    u[7]      primal_lower7  725
-    u[7]      primal_lower8  299
-    u[7]      primal_lower9  823
+    u[7]      primal_lower0  392
+    u[7]      primal_lower1  85
+    u[7]      primal_lower2  522
+    u[7]      primal_lower3  52
+    u[7]      primal_lower4  817
+    u[7]      primal_lower5  478
+    u[7]      primal_lower6  694
+    u[7]      primal_lower7  986
+    u[7]      primal_lower8  406
+    u[7]      primal_lower9  127
     u[7]      interdiction[7]  1
     u[7]      mccormick1[7]  -1
     u[7]      mccormick3[7]  1
-    u[8]      primal_lower0  69
-    u[8]      primal_lower1  47
-    u[8]      primal_lower2  606
-    u[8]      primal_lower3  363
-    u[8]      primal_lower4  93
-    u[8]      primal_lower5  667
-    u[8]      primal_lower6  348
-    u[8]      primal_lower7  411
-    u[8]      primal_lower8  977
-    u[8]      primal_lower9  973
+    u[8]      primal_lower0  686
+    u[8]      primal_lower1  118
+    u[8]      primal_lower2  971
+    u[8]      primal_lower3  866
+    u[8]      primal_lower4  330
+    u[8]      primal_lower5  84
+    u[8]      primal_lower6  260
+    u[8]      primal_lower7  91
+    u[8]      primal_lower8  676
+    u[8]      primal_lower9  957
     u[8]      interdiction[8]  1
     u[8]      mccormick1[8]  -1
     u[8]      mccormick3[8]  1
-    u[9]      primal_lower0  48
-    u[9]      primal_lower1  194
-    u[9]      primal_lower2  517
-    u[9]      primal_lower3  717
-    u[9]      primal_lower4  167
-    u[9]      primal_lower5  181
-    u[9]      primal_lower6  891
-    u[9]      primal_lower7  526
-    u[9]      primal_lower8  940
-    u[9]      primal_lower9  48
+    u[9]      primal_lower0  215
+    u[9]      primal_lower1  339
+    u[9]      primal_lower2  712
+    u[9]      primal_lower3  907
+    u[9]      primal_lower4  591
+    u[9]      primal_lower5  741
+    u[9]      primal_lower6  141
+    u[9]      primal_lower7  224
+    u[9]      primal_lower8  653
+    u[9]      primal_lower9  950
     u[9]      interdiction[9]  1
     u[9]      mccormick1[9]  -1
     u[9]      mccormick3[9]  1
-    u[10]     primal_lower0  206
-    u[10]     primal_lower1  296
-    u[10]     primal_lower2  255
-    u[10]     primal_lower3  489
-    u[10]     primal_lower4  91
-    u[10]     primal_lower5  809
-    u[10]     primal_lower6  605
-    u[10]     primal_lower7  660
-    u[10]     primal_lower8  370
-    u[10]     primal_lower9  294
+    u[10]     primal_lower0  140
+    u[10]     primal_lower1  517
+    u[10]     primal_lower2  834
+    u[10]     primal_lower3  416
+    u[10]     primal_lower4  97
+    u[10]     primal_lower5  706
+    u[10]     primal_lower6  274
+    u[10]     primal_lower7  978
+    u[10]     primal_lower8  754
+    u[10]     primal_lower9  59
     u[10]     interdiction[10]  1
     u[10]     mccormick1[10]  -1
     u[10]     mccormick3[10]  1
-    u[11]     primal_lower0  668
-    u[11]     primal_lower1  422
-    u[11]     primal_lower2  201
-    u[11]     primal_lower3  420
-    u[11]     primal_lower4  582
-    u[11]     primal_lower5  572
-    u[11]     primal_lower6  751
-    u[11]     primal_lower7  538
-    u[11]     primal_lower8  944
-    u[11]     primal_lower9  164
+    u[11]     primal_lower0  584
+    u[11]     primal_lower1  900
+    u[11]     primal_lower2  681
+    u[11]     primal_lower3  788
+    u[11]     primal_lower4  464
+    u[11]     primal_lower5  318
+    u[11]     primal_lower6  350
+    u[11]     primal_lower7  945
+    u[11]     primal_lower8  398
+    u[11]     primal_lower9  7
     u[11]     interdiction[11]  1
     u[11]     mccormick1[11]  -1
     u[11]     mccormick3[11]  1
-    u[12]     primal_lower0  134
-    u[12]     primal_lower1  824
-    u[12]     primal_lower2  599
-    u[12]     primal_lower3  92
-    u[12]     primal_lower4  894
-    u[12]     primal_lower5  428
-    u[12]     primal_lower6  645
-    u[12]     primal_lower7  884
-    u[12]     primal_lower8  218
-    u[12]     primal_lower9  446
+    u[12]     primal_lower0  805
+    u[12]     primal_lower1  421
+    u[12]     primal_lower2  570
+    u[12]     primal_lower3  81
+    u[12]     primal_lower4  545
+    u[12]     primal_lower5  259
+    u[12]     primal_lower6  803
+    u[12]     primal_lower7  442
+    u[12]     primal_lower8  171
+    u[12]     primal_lower9  852
     u[12]     interdiction[12]  1
     u[12]     mccormick1[12]  -1
     u[12]     mccormick3[12]  1
-    u[13]     primal_lower0  296
-    u[13]     primal_lower1  162
-    u[13]     primal_lower2  797
-    u[13]     primal_lower3  397
-    u[13]     primal_lower4  863
-    u[13]     primal_lower5  45
-    u[13]     primal_lower6  107
-    u[13]     primal_lower7  830
-    u[13]     primal_lower8  4
-    u[13]     primal_lower9  24
+    u[13]     primal_lower0  73
+    u[13]     primal_lower1  381
+    u[13]     primal_lower2  434
+    u[13]     primal_lower3  237
+    u[13]     primal_lower4  969
+    u[13]     primal_lower5  847
+    u[13]     primal_lower6  487
+    u[13]     primal_lower7  106
+    u[13]     primal_lower8  607
+    u[13]     primal_lower9  200
     u[13]     interdiction[13]  1
     u[13]     mccormick1[13]  -1
     u[13]     mccormick3[13]  1
-    u[14]     primal_lower0  392
-    u[14]     primal_lower1  250
-    u[14]     primal_lower2  833
-    u[14]     primal_lower3  555
-    u[14]     primal_lower4  845
-    u[14]     primal_lower5  499
-    u[14]     primal_lower6  47
-    u[14]     primal_lower7  694
-    u[14]     primal_lower8  556
-    u[14]     primal_lower9  704
+    u[14]     primal_lower0  485
+    u[14]     primal_lower1  590
+    u[14]     primal_lower2  99
+    u[14]     primal_lower3  969
+    u[14]     primal_lower4  458
+    u[14]     primal_lower5  587
+    u[14]     primal_lower6  195
+    u[14]     primal_lower7  171
+    u[14]     primal_lower8  99
+    u[14]     primal_lower9  388
     u[14]     interdiction[14]  1
     u[14]     mccormick1[14]  -1
     u[14]     mccormick3[14]  1
-    u[15]     primal_lower0  694
-    u[15]     primal_lower1  864
-    u[15]     primal_lower2  299
-    u[15]     primal_lower3  63
-    u[15]     primal_lower4  633
-    u[15]     primal_lower5  551
-    u[15]     primal_lower6  577
-    u[15]     primal_lower7  380
-    u[15]     primal_lower8  170
-    u[15]     primal_lower9  430
+    u[15]     primal_lower0  41
+    u[15]     primal_lower1  782
+    u[15]     primal_lower2  147
+    u[15]     primal_lower3  733
+    u[15]     primal_lower4  2
+    u[15]     primal_lower5  399
+    u[15]     primal_lower6  15
+    u[15]     primal_lower7  947
+    u[15]     primal_lower8  399
+    u[15]     primal_lower9  104
     u[15]     interdiction[15]  1
     u[15]     mccormick1[15]  -1
     u[15]     mccormick3[15]  1
-    u[16]     primal_lower0  686
-    u[16]     primal_lower1  584
-    u[16]     primal_lower2  831
-    u[16]     primal_lower3  804
-    u[16]     primal_lower4  318
-    u[16]     primal_lower5  492
-    u[16]     primal_lower6  669
-    u[16]     primal_lower7  764
-    u[16]     primal_lower8  410
-    u[16]     primal_lower9  294
+    u[16]     primal_lower0  574
+    u[16]     primal_lower1  870
+    u[16]     primal_lower2  667
+    u[16]     primal_lower3  50
+    u[16]     primal_lower4  106
+    u[16]     primal_lower5  60
+    u[16]     primal_lower6  660
+    u[16]     primal_lower7  947
+    u[16]     primal_lower8  28
+    u[16]     primal_lower9  101
     u[16]     interdiction[16]  1
     u[16]     mccormick1[16]  -1
     u[16]     mccormick3[16]  1
-    u[17]     primal_lower0  29
-    u[17]     primal_lower1  647
-    u[17]     primal_lower2  450
-    u[17]     primal_lower3  362
-    u[17]     primal_lower4  236
-    u[17]     primal_lower5  954
-    u[17]     primal_lower6  336
-    u[17]     primal_lower7  99
-    u[17]     primal_lower8  577
-    u[17]     primal_lower9  725
+    u[17]     primal_lower0  781
+    u[17]     primal_lower1  17
+    u[17]     primal_lower2  478
+    u[17]     primal_lower3  145
+    u[17]     primal_lower4  421
+    u[17]     primal_lower5  403
+    u[17]     primal_lower6  459
+    u[17]     primal_lower7  998
+    u[17]     primal_lower8  795
+    u[17]     primal_lower9  700
     u[17]     interdiction[17]  1
     u[17]     mccormick1[17]  -1
     u[17]     mccormick3[17]  1
-    u[18]     primal_lower0  215
-    u[18]     primal_lower1  857
-    u[18]     primal_lower2  56
-    u[18]     primal_lower3  289
-    u[18]     primal_lower4  891
-    u[18]     primal_lower5  65
-    u[18]     primal_lower6  702
-    u[18]     primal_lower7  349
-    u[18]     primal_lower8  387
-    u[18]     primal_lower9  967
+    u[18]     primal_lower0  434
+    u[18]     primal_lower1  2
+    u[18]     primal_lower2  783
+    u[18]     primal_lower3  582
+    u[18]     primal_lower4  862
+    u[18]     primal_lower5  568
+    u[18]     primal_lower6  656
+    u[18]     primal_lower7  487
+    u[18]     primal_lower8  104
+    u[18]     primal_lower9  233
     u[18]     interdiction[18]  1
     u[18]     mccormick1[18]  -1
     u[18]     mccormick3[18]  1
-    u[19]     primal_lower0  997
-    u[19]     primal_lower1  935
-    u[19]     primal_lower2  242
-    u[19]     primal_lower3  798
-    u[19]     primal_lower4  376
-    u[19]     primal_lower5  958
-    u[19]     primal_lower6  640
-    u[19]     primal_lower7  947
-    u[19]     primal_lower8  753
-    u[19]     primal_lower9  21
+    u[19]     primal_lower0  387
+    u[19]     primal_lower1  511
+    u[19]     primal_lower2  588
+    u[19]     primal_lower3  271
+    u[19]     primal_lower4  843
+    u[19]     primal_lower5  457
+    u[19]     primal_lower6  393
+    u[19]     primal_lower7  980
+    u[19]     primal_lower8  217
+    u[19]     primal_lower9  226
     u[19]     interdiction[19]  1
     u[19]     mccormick1[19]  -1
     u[19]     mccormick3[19]  1
-    u[20]     primal_lower0  140
-    u[20]     primal_lower1  102
-    u[20]     primal_lower2  165
-    u[20]     primal_lower3  243
-    u[20]     primal_lower4  917
-    u[20]     primal_lower5  419
-    u[20]     primal_lower6  691
-    u[20]     primal_lower7  194
-    u[20]     primal_lower8  432
-    u[20]     primal_lower9  372
+    u[20]     primal_lower0  70
+    u[20]     primal_lower1  558
+    u[20]     primal_lower2  331
+    u[20]     primal_lower3  922
+    u[20]     primal_lower4  770
+    u[20]     primal_lower5  780
+    u[20]     primal_lower6  124
+    u[20]     primal_lower7  651
+    u[20]     primal_lower8  420
+    u[20]     primal_lower9  909
     u[20]     interdiction[20]  1
     u[20]     mccormick1[20]  -1
     u[20]     mccormick3[20]  1
-    u[21]     primal_lower0  838
-    u[21]     primal_lower1  504
-    u[21]     primal_lower2  931
-    u[21]     primal_lower3  474
-    u[21]     primal_lower4  892
-    u[21]     primal_lower5  546
-    u[21]     primal_lower6  521
-    u[21]     primal_lower7  228
-    u[21]     primal_lower8  258
-    u[21]     primal_lower9  182
+    u[21]     primal_lower0  108
+    u[21]     primal_lower1  97
+    u[21]     primal_lower2  662
+    u[21]     primal_lower3  496
+    u[21]     primal_lower4  997
+    u[21]     primal_lower5  890
+    u[21]     primal_lower6  458
+    u[21]     primal_lower7  550
+    u[21]     primal_lower8  778
+    u[21]     primal_lower9  923
     u[21]     interdiction[21]  1
     u[21]     mccormick1[21]  -1
     u[21]     mccormick3[21]  1
-    u[22]     primal_lower0  584
-    u[22]     primal_lower1  898
-    u[22]     primal_lower2  33
-    u[22]     primal_lower3  522
-    u[22]     primal_lower4  940
-    u[22]     primal_lower5  266
-    u[22]     primal_lower6  167
-    u[22]     primal_lower7  390
-    u[22]     primal_lower8  588
-    u[22]     primal_lower9  48
+    u[22]     primal_lower0  389
+    u[22]     primal_lower1  69
+    u[22]     primal_lower2  954
+    u[22]     primal_lower3  681
+    u[22]     primal_lower4  217
+    u[22]     primal_lower5  763
+    u[22]     primal_lower6  451
+    u[22]     primal_lower7  906
+    u[22]     primal_lower8  811
+    u[22]     primal_lower9  444
     u[22]     interdiction[22]  1
     u[22]     mccormick1[22]  -1
     u[22]     mccormick3[22]  1
-    u[23]     primal_lower0  518
-    u[23]     primal_lower1  544
-    u[23]     primal_lower2  515
-    u[23]     primal_lower3  30
-    u[23]     primal_lower4  304
-    u[23]     primal_lower5  222
-    u[23]     primal_lower6  737
-    u[23]     primal_lower7  500
-    u[23]     primal_lower8  594
-    u[23]     primal_lower9  702
+    u[23]     primal_lower0  811
+    u[23]     primal_lower1  576
+    u[23]     primal_lower2  741
+    u[23]     primal_lower3  87
+    u[23]     primal_lower4  260
+    u[23]     primal_lower5  169
+    u[23]     primal_lower6  921
+    u[23]     primal_lower7  925
+    u[23]     primal_lower8  233
+    u[23]     primal_lower9  418
     u[23]     interdiction[23]  1
     u[23]     mccormick1[23]  -1
     u[23]     mccormick3[23]  1
-    u[24]     primal_lower0  805
-    u[24]     primal_lower1  143
-    u[24]     primal_lower2  198
-    u[24]     primal_lower3  963
-    u[24]     primal_lower4  437
-    u[24]     primal_lower5  731
-    u[24]     primal_lower6  20
-    u[24]     primal_lower7  387
-    u[24]     primal_lower8  601
-    u[24]     primal_lower9  597
+    u[24]     primal_lower0  477
+    u[24]     primal_lower1  678
+    u[24]     primal_lower2  435
+    u[24]     primal_lower3  953
+    u[24]     primal_lower4  826
+    u[24]     primal_lower5  763
+    u[24]     primal_lower6  123
+    u[24]     primal_lower7  939
+    u[24]     primal_lower8  363
+    u[24]     primal_lower9  364
     u[24]     interdiction[24]  1
     u[24]     mccormick1[24]  -1
     u[24]     mccormick3[24]  1
-    u[25]     primal_lower0  178
-    u[25]     primal_lower1  76
-    u[25]     primal_lower2  871
-    u[25]     primal_lower3  438
-    u[25]     primal_lower4  536
-    u[25]     primal_lower5  654
-    u[25]     primal_lower6  173
-    u[25]     primal_lower7  472
-    u[25]     primal_lower8  750
-    u[25]     primal_lower9  466
+    u[25]     primal_lower0  453
+    u[25]     primal_lower1  961
+    u[25]     primal_lower2  758
+    u[25]     primal_lower3  41
+    u[25]     primal_lower4  277
+    u[25]     primal_lower5  523
+    u[25]     primal_lower6  891
+    u[25]     primal_lower7  438
+    u[25]     primal_lower8  515
+    u[25]     primal_lower9  356
     u[25]     interdiction[25]  1
     u[25]     mccormick1[25]  -1
     u[25]     mccormick3[25]  1
-    u[26]     primal_lower0  73
-    u[26]     primal_lower1  627
-    u[26]     primal_lower2  378
-    u[26]     primal_lower3  291
-    u[26]     primal_lower4  61
-    u[26]     primal_lower5  211
-    u[26]     primal_lower6  536
-    u[26]     primal_lower7  879
-    u[26]     primal_lower8  893
-    u[26]     primal_lower9  9
+    u[26]     primal_lower0  91
+    u[26]     primal_lower1  739
+    u[26]     primal_lower2  88
+    u[26]     primal_lower3  23
+    u[26]     primal_lower4  463
+    u[26]     primal_lower5  809
+    u[26]     primal_lower6  545
+    u[26]     primal_lower7  952
+    u[26]     primal_lower8  825
+    u[26]     primal_lower9  178
     u[26]     interdiction[26]  1
     u[26]     mccormick1[26]  -1
     u[26]     mccormick3[26]  1
-    u[27]     primal_lower0  701
-    u[27]     primal_lower1  719
-    u[27]     primal_lower2  458
-    u[27]     primal_lower3  605
-    u[27]     primal_lower4  575
-    u[27]     primal_lower5  133
-    u[27]     primal_lower6  584
-    u[27]     primal_lower7  547
-    u[27]     primal_lower8  529
-    u[27]     primal_lower9  533
+    u[27]     primal_lower0  508
+    u[27]     primal_lower1  89
+    u[27]     primal_lower2  742
+    u[27]     primal_lower3  296
+    u[27]     primal_lower4  237
+    u[27]     primal_lower5  690
+    u[27]     primal_lower6  58
+    u[27]     primal_lower7  230
+    u[27]     primal_lower8  626
+    u[27]     primal_lower9  435
     u[27]     interdiction[27]  1
     u[27]     mccormick1[27]  -1
     u[27]     mccormick3[27]  1
-    u[28]     primal_lower0  485
-    u[28]     primal_lower1  375
-    u[28]     primal_lower2  918
-    u[28]     primal_lower3  156
-    u[28]     primal_lower4  46
-    u[28]     primal_lower5  548
-    u[28]     primal_lower6  380
-    u[28]     primal_lower7  491
-    u[28]     primal_lower8  513
-    u[28]     primal_lower9  317
+    u[28]     primal_lower0  926
+    u[28]     primal_lower1  463
+    u[28]     primal_lower2  12
+    u[28]     primal_lower3  338
+    u[28]     primal_lower4  547
+    u[28]     primal_lower5  756
+    u[28]     primal_lower6  548
+    u[28]     primal_lower7  468
+    u[28]     primal_lower8  548
+    u[28]     primal_lower9  685
     u[28]     interdiction[28]  1
     u[28]     mccormick1[28]  -1
     u[28]     mccormick3[28]  1
-    u[29]     primal_lower0  278
-    u[29]     primal_lower1  992
-    u[29]     primal_lower2  291
-    u[29]     primal_lower3  378
-    u[29]     primal_lower4  556
-    u[29]     primal_lower5  938
-    u[29]     primal_lower6  201
-    u[29]     primal_lower7  852
-    u[29]     primal_lower8  418
-    u[29]     primal_lower9  94
+    u[29]     primal_lower0  900
+    u[29]     primal_lower1  640
+    u[29]     primal_lower2  221
+    u[29]     primal_lower3  672
+    u[29]     primal_lower4  660
+    u[29]     primal_lower5  226
+    u[29]     primal_lower6  874
+    u[29]     primal_lower7  781
+    u[29]     primal_lower8  410
+    u[29]     primal_lower9  723
     u[29]     interdiction[29]  1
     u[29]     mccormick1[29]  -1
     u[29]     mccormick3[29]  1
-    u[30]     primal_lower0  41
-    u[30]     primal_lower1  795
-    u[30]     primal_lower2  90
-    u[30]     primal_lower3  292
-    u[30]     primal_lower4  966
-    u[30]     primal_lower5  604
-    u[30]     primal_lower6  384
-    u[30]     primal_lower7  615
-    u[30]     primal_lower8  317
-    u[30]     primal_lower9  65
+    u[30]     primal_lower0  298
+    u[30]     primal_lower1  363
+    u[30]     primal_lower2  40
+    u[30]     primal_lower3  582
+    u[30]     primal_lower4  679
+    u[30]     primal_lower5  848
+    u[30]     primal_lower6  488
+    u[30]     primal_lower7  544
+    u[30]     primal_lower8  632
+    u[30]     primal_lower9  897
     u[30]     interdiction[30]  1
     u[30]     mccormick1[30]  -1
     u[30]     mccormick3[30]  1
-    u[31]     primal_lower0  367
-    u[31]     primal_lower1  673
-    u[31]     primal_lower2  372
-    u[31]     primal_lower3  399
-    u[31]     primal_lower4  457
-    u[31]     primal_lower5  615
-    u[31]     primal_lower6  594
-    u[31]     primal_lower7  989
-    u[31]     primal_lower8  347
-    u[31]     primal_lower9  527
+    u[31]     primal_lower0  768
+    u[31]     primal_lower1  861
+    u[31]     primal_lower2  826
+    u[31]     primal_lower3  956
+    u[31]     primal_lower4  673
+    u[31]     primal_lower5  206
+    u[31]     primal_lower6  214
+    u[31]     primal_lower7  114
+    u[31]     primal_lower8  454
+    u[31]     primal_lower9  511
     u[31]     interdiction[31]  1
     u[31]     mccormick1[31]  -1
     u[31]     mccormick3[31]  1
-    u[32]     primal_lower0  574
-    u[32]     primal_lower1  392
-    u[32]     primal_lower2  183
-    u[32]     primal_lower3  68
-    u[32]     primal_lower4  614
-    u[32]     primal_lower5  716
-    u[32]     primal_lower6  5
-    u[32]     primal_lower7  428
-    u[32]     primal_lower8  906
-    u[32]     primal_lower9  126
+    u[32]     primal_lower0  300
+    u[32]     primal_lower1  277
+    u[32]     primal_lower2  682
+    u[32]     primal_lower3  792
+    u[32]     primal_lower4  521
+    u[32]     primal_lower5  58
+    u[32]     primal_lower6  506
+    u[32]     primal_lower7  978
+    u[32]     primal_lower8  490
+    u[32]     primal_lower9  851
     u[32]     interdiction[32]  1
     u[32]     mccormick1[32]  -1
     u[32]     mccormick3[32]  1
-    u[33]     primal_lower0  317
-    u[33]     primal_lower1  135
-    u[33]     primal_lower2  50
-    u[33]     primal_lower3  577
-    u[33]     primal_lower4  379
-    u[33]     primal_lower5  113
-    u[33]     primal_lower6  632
-    u[33]     primal_lower7  11
-    u[33]     primal_lower8  273
-    u[33]     primal_lower9  917
+    u[33]     primal_lower0  842
+    u[33]     primal_lower1  478
+    u[33]     primal_lower2  755
+    u[33]     primal_lower3  694
+    u[33]     primal_lower4  34
+    u[33]     primal_lower5  800
+    u[33]     primal_lower6  1000
+    u[33]     primal_lower7  915
+    u[33]     primal_lower8  952
+    u[33]     primal_lower9  193
     u[33]     interdiction[33]  1
     u[33]     mccormick1[33]  -1
     u[33]     mccormick3[33]  1
-    u[34]     primal_lower0  781
-    u[34]     primal_lower1  495
-    u[34]     primal_lower2  494
-    u[34]     primal_lower3  823
-    u[34]     primal_lower4  897
-    u[34]     primal_lower5  255
-    u[34]     primal_lower6  924
-    u[34]     primal_lower7  507
-    u[34]     primal_lower8  281
-    u[34]     primal_lower9  277
+    u[34]     primal_lower0  941
+    u[34]     primal_lower1  589
+    u[34]     primal_lower2  234
+    u[34]     primal_lower3  465
+    u[34]     primal_lower4  305
+    u[34]     primal_lower5  971
+    u[34]     primal_lower6  883
+    u[34]     primal_lower7  10
+    u[34]     primal_lower8  715
+    u[34]     primal_lower9  676
     u[34]     interdiction[34]  1
     u[34]     mccormick1[34]  -1
     u[34]     mccormick3[34]  1
-    u[35]     primal_lower0  901
-    u[35]     primal_lower1  151
-    u[35]     primal_lower2  874
-    u[35]     primal_lower3  973
-    u[35]     primal_lower4  487
-    u[35]     primal_lower5  413
-    u[35]     primal_lower6  368
-    u[35]     primal_lower7  571
-    u[35]     primal_lower8  625
-    u[35]     primal_lower9  861
+    u[35]     primal_lower0  726
+    u[35]     primal_lower1  914
+    u[35]     primal_lower2  791
+    u[35]     primal_lower3  106
+    u[35]     primal_lower4  518
+    u[35]     primal_lower5  620
+    u[35]     primal_lower6  740
+    u[35]     primal_lower7  391
+    u[35]     primal_lower8  804
+    u[35]     primal_lower9  821
     u[35]     interdiction[35]  1
     u[35]     mccormick1[35]  -1
     u[35]     mccormick3[35]  1
-    u[36]     primal_lower0  434
-    u[36]     primal_lower1  84
-    u[36]     primal_lower2  731
-    u[36]     primal_lower3  336
-    u[36]     primal_lower4  434
-    u[36]     primal_lower5  816
-    u[36]     primal_lower6  841
-    u[36]     primal_lower7  504
-    u[36]     primal_lower8  270
-    u[36]     primal_lower9  858
+    u[36]     primal_lower0  989
+    u[36]     primal_lower1  389
+    u[36]     primal_lower2  746
+    u[36]     primal_lower3  161
+    u[36]     primal_lower4  441
+    u[36]     primal_lower5  539
+    u[36]     primal_lower6  795
+    u[36]     primal_lower7  362
+    u[36]     primal_lower8  819
+    u[36]     primal_lower9  604
     u[36]     interdiction[36]  1
     u[36]     mccormick1[36]  -1
     u[36]     mccormick3[36]  1
-    u[37]     primal_lower0  25
-    u[37]     primal_lower1  307
-    u[37]     primal_lower2  902
-    u[37]     primal_lower3  638
-    u[37]     primal_lower4  312
-    u[37]     primal_lower5  582
-    u[37]     primal_lower6  668
-    u[37]     primal_lower7  783
-    u[37]     primal_lower8  341
-    u[37]     primal_lower9  9
+    u[37]     primal_lower0  529
+    u[37]     primal_lower1  606
+    u[37]     primal_lower2  75
+    u[37]     primal_lower3  53
+    u[37]     primal_lower4  106
+    u[37]     primal_lower5  207
+    u[37]     primal_lower6  991
+    u[37]     primal_lower7  787
+    u[37]     primal_lower8  191
+    u[37]     primal_lower9  304
     u[37]     interdiction[37]  1
     u[37]     mccormick1[37]  -1
     u[37]     mccormick3[37]  1
-    u[38]     primal_lower0  387
-    u[38]     primal_lower1  269
-    u[38]     primal_lower2  508
-    u[38]     primal_lower3  605
-    u[38]     primal_lower4  143
-    u[38]     primal_lower5  933
-    u[38]     primal_lower6  690
-    u[38]     primal_lower7  889
-    u[38]     primal_lower8  487
-    u[38]     primal_lower9  555
+    u[38]     primal_lower0  381
+    u[38]     primal_lower1  893
+    u[38]     primal_lower2  778
+    u[38]     primal_lower3  289
+    u[38]     primal_lower4  233
+    u[38]     primal_lower5  291
+    u[38]     primal_lower6  379
+    u[38]     primal_lower7  634
+    u[38]     primal_lower8  163
+    u[38]     primal_lower9  132
     u[38]     interdiction[38]  1
     u[38]     mccormick1[38]  -1
     u[38]     mccormick3[38]  1
-    u[39]     primal_lower0  348
-    u[39]     primal_lower1  382
-    u[39]     primal_lower2  745
-    u[39]     primal_lower3  141
-    u[39]     primal_lower4  199
-    u[39]     primal_lower5  453
-    u[39]     primal_lower6  807
-    u[39]     primal_lower7  946
-    u[39]     primal_lower8  360
-    u[39]     primal_lower9  684
+    u[39]     primal_lower0  467
+    u[39]     primal_lower1  376
+    u[39]     primal_lower2  725
+    u[39]     primal_lower3  959
+    u[39]     primal_lower4  892
+    u[39]     primal_lower5  33
+    u[39]     primal_lower6  857
+    u[39]     primal_lower7  389
+    u[39]     primal_lower8  673
+    u[39]     primal_lower9  922
     u[39]     interdiction[39]  1
     u[39]     mccormick1[39]  -1
     u[39]     mccormick3[39]  1
-    u[40]     primal_lower0  70
-    u[40]     primal_lower1  896
-    u[40]     primal_lower2  303
-    u[40]     primal_lower3  516
-    u[40]     primal_lower4  750
-    u[40]     primal_lower5  700
-    u[40]     primal_lower6  117
-    u[40]     primal_lower7  948
-    u[40]     primal_lower8  866
-    u[40]     primal_lower9  958
+    u[40]     primal_lower0  400
+    u[40]     primal_lower1  344
+    u[40]     primal_lower2  917
+    u[40]     primal_lower3  260
+    u[40]     primal_lower4  524
+    u[40]     primal_lower5  326
+    u[40]     primal_lower6  198
+    u[40]     primal_lower7  605
+    u[40]     primal_lower8  62
+    u[40]     primal_lower9  223
     u[40]     interdiction[40]  1
     u[40]     mccormick1[40]  -1
     u[40]     mccormick3[40]  1
-    u[41]     primal_lower0  696
-    u[41]     primal_lower1  906
-    u[41]     primal_lower2  525
-    u[41]     primal_lower3  685
-    u[41]     primal_lower4  55
-    u[41]     primal_lower5  501
-    u[41]     primal_lower6  99
-    u[41]     primal_lower7  142
-    u[41]     primal_lower8  644
-    u[41]     primal_lower9  768
+    u[41]     primal_lower0  934
+    u[41]     primal_lower1  467
+    u[41]     primal_lower2  312
+    u[41]     primal_lower3  258
+    u[41]     primal_lower4  191
+    u[41]     primal_lower5  324
+    u[41]     primal_lower6  244
+    u[41]     primal_lower7  400
+    u[41]     primal_lower8  916
+    u[41]     primal_lower9  885
     u[41]     interdiction[41]  1
     u[41]     mccormick1[41]  -1
     u[41]     mccormick3[41]  1
-    u[42]     primal_lower0  108
-    u[42]     primal_lower1  638
-    u[42]     primal_lower2  189
-    u[42]     primal_lower3  319
-    u[42]     primal_lower4  689
-    u[42]     primal_lower5  391
-    u[42]     primal_lower6  579
-    u[42]     primal_lower7  338
-    u[42]     primal_lower8  672
-    u[42]     primal_lower9  956
+    u[42]     primal_lower0  167
+    u[42]     primal_lower1  455
+    u[42]     primal_lower2  308
+    u[42]     primal_lower3  235
+    u[42]     primal_lower4  643
+    u[42]     primal_lower5  165
+    u[42]     primal_lower6  949
+    u[42]     primal_lower7  636
+    u[42]     primal_lower8  509
+    u[42]     primal_lower9  958
     u[42]     interdiction[42]  1
     u[42]     mccormick1[42]  -1
     u[42]     mccormick3[42]  1
-    u[43]     primal_lower0  602
-    u[43]     primal_lower1  348
-    u[43]     primal_lower2  383
-    u[43]     primal_lower3  954
-    u[43]     primal_lower4  132
-    u[43]     primal_lower5  802
-    u[43]     primal_lower6  485
-    u[43]     primal_lower7  112
-    u[43]     primal_lower8  230
-    u[43]     primal_lower9  242
+    u[43]     primal_lower0  322
+    u[43]     primal_lower1  607
+    u[43]     primal_lower2  204
+    u[43]     primal_lower3  950
+    u[43]     primal_lower4  371
+    u[43]     primal_lower5  816
+    u[43]     primal_lower6  608
+    u[43]     primal_lower7  716
+    u[43]     primal_lower8  344
+    u[43]     primal_lower9  193
     u[43]     interdiction[43]  1
     u[43]     mccormick1[43]  -1
     u[43]     mccormick3[43]  1
-    u[44]     primal_lower0  389
-    u[44]     primal_lower1  367
-    u[44]     primal_lower2  438
-    u[44]     primal_lower3  411
-    u[44]     primal_lower4  485
-    u[44]     primal_lower5  27
-    u[44]     primal_lower6  932
-    u[44]     primal_lower7  179
-    u[44]     primal_lower8  953
-    u[44]     primal_lower9  645
+    u[44]     primal_lower0  184
+    u[44]     primal_lower1  968
+    u[44]     primal_lower2  749
+    u[44]     primal_lower3  676
+    u[44]     primal_lower4  428
+    u[44]     primal_lower5  478
+    u[44]     primal_lower6  454
+    u[44]     primal_lower7  541
+    u[44]     primal_lower8  254
+    u[44]     primal_lower9  503
     u[44]     interdiction[44]  1
     u[44]     mccormick1[44]  -1
     u[44]     mccormick3[44]  1
-    u[45]     primal_lower0  411
-    u[45]     primal_lower1  173
-    u[45]     primal_lower2  856
-    u[45]     primal_lower3  87
-    u[45]     primal_lower4  345
-    u[45]     primal_lower5  479
-    u[45]     primal_lower6  334
-    u[45]     primal_lower7  9
-    u[45]     primal_lower8  223
-    u[45]     primal_lower9  603
+    u[45]     primal_lower0  191
+    u[45]     primal_lower1  148
+    u[45]     primal_lower2  993
+    u[45]     primal_lower3  539
+    u[45]     primal_lower4  392
+    u[45]     primal_lower5  701
+    u[45]     primal_lower6  69
+    u[45]     primal_lower7  505
+    u[45]     primal_lower8  173
+    u[45]     primal_lower9  438
     u[45]     interdiction[45]  1
     u[45]     mccormick1[45]  -1
     u[45]     mccormick3[45]  1
-    u[46]     primal_lower0  811
-    u[46]     primal_lower1  405
-    u[46]     primal_lower2  252
-    u[46]     primal_lower3  462
-    u[46]     primal_lower4  528
-    u[46]     primal_lower5  22
-    u[46]     primal_lower6  794
-    u[46]     primal_lower7  129
-    u[46]     primal_lower8  927
-    u[46]     primal_lower9  819
+    u[46]     primal_lower0  130
+    u[46]     primal_lower1  627
+    u[46]     primal_lower2  40
+    u[46]     primal_lower3  822
+    u[46]     primal_lower4  255
+    u[46]     primal_lower5  144
+    u[46]     primal_lower6  592
+    u[46]     primal_lower7  272
+    u[46]     primal_lower8  568
+    u[46]     primal_lower9  833
     u[46]     interdiction[46]  1
     u[46]     mccormick1[46]  -1
     u[46]     mccormick3[46]  1
-    u[47]     primal_lower0  955
-    u[47]     primal_lower1  805
-    u[47]     primal_lower2  968
-    u[47]     primal_lower3  243
-    u[47]     primal_lower4  757
-    u[47]     primal_lower5  243
-    u[47]     primal_lower6  526
-    u[47]     primal_lower7  233
-    u[47]     primal_lower8  367
-    u[47]     primal_lower9  515
+    u[47]     primal_lower0  126
+    u[47]     primal_lower1  683
+    u[47]     primal_lower2  576
+    u[47]     primal_lower3  922
+    u[47]     primal_lower4  815
+    u[47]     primal_lower5  244
+    u[47]     primal_lower6  484
+    u[47]     primal_lower7  664
+    u[47]     primal_lower8  28
+    u[47]     primal_lower9  421
     u[47]     interdiction[47]  1
     u[47]     mccormick1[47]  -1
     u[47]     mccormick3[47]  1
-    u[48]     primal_lower0  477
-    u[48]     primal_lower1  31
-    u[48]     primal_lower2  934
-    u[48]     primal_lower3  556
-    u[48]     primal_lower4  54
-    u[48]     primal_lower5  948
-    u[48]     primal_lower6  612
-    u[48]     primal_lower7  91
-    u[48]     primal_lower8  657
-    u[48]     primal_lower9  989
+    u[48]     primal_lower0  704
+    u[48]     primal_lower1  648
+    u[48]     primal_lower2  85
+    u[48]     primal_lower3  676
+    u[48]     primal_lower4  436
+    u[48]     primal_lower5  46
+    u[48]     primal_lower6  110
+    u[48]     primal_lower7  389
+    u[48]     primal_lower8  430
+    u[48]     primal_lower9  127
     u[48]     interdiction[48]  1
     u[48]     mccormick1[48]  -1
     u[48]     mccormick3[48]  1
-    u[49]     primal_lower0  104
-    u[49]     primal_lower1  642
-    u[49]     primal_lower2  341
-    u[49]     primal_lower3  988
-    u[49]     primal_lower4  918
-    u[49]     primal_lower5  52
-    u[49]     primal_lower6  403
-    u[49]     primal_lower7  6
-    u[49]     primal_lower8  796
-    u[49]     primal_lower9  48
+    u[49]     primal_lower0  789
+    u[49]     primal_lower1  577
+    u[49]     primal_lower2  406
+    u[49]     primal_lower3  729
+    u[49]     primal_lower4  613
+    u[49]     primal_lower5  179
+    u[49]     primal_lower6  67
+    u[49]     primal_lower7  182
+    u[49]     primal_lower8  227
+    u[49]     primal_lower9  260
     u[49]     interdiction[49]  1
     u[49]     mccormick1[49]  -1
     u[49]     mccormick3[49]  1
-    u[50]     primal_lower0  453
-    u[50]     primal_lower1  183
-    u[50]     primal_lower2  630
-    u[50]     primal_lower3  807
-    u[50]     primal_lower4  881
-    u[50]     primal_lower5  999
-    u[50]     primal_lower6  228
-    u[50]     primal_lower7  683
-    u[50]     primal_lower8  865
-    u[50]     primal_lower9  517
+    u[50]     primal_lower0  887
+    u[50]     primal_lower1  536
+    u[50]     primal_lower2  133
+    u[50]     primal_lower3  219
+    u[50]     primal_lower4  284
+    u[50]     primal_lower5  573
+    u[50]     primal_lower6  653
+    u[50]     primal_lower7  205
+    u[50]     primal_lower8  181
+    u[50]     primal_lower9  998
     u[50]     interdiction[50]  1
     u[50]     mccormick1[50]  -1
     u[50]     mccormick3[50]  1
-    u[51]     primal_lower0  585
-    u[51]     primal_lower1  379
-    u[51]     primal_lower2  390
-    u[51]     primal_lower3  970
-    u[51]     primal_lower4  276
-    u[51]     primal_lower5  330
-    u[51]     primal_lower6  692
-    u[51]     primal_lower7  391
-    u[51]     primal_lower8  805
-    u[51]     primal_lower9  137
+    u[51]     primal_lower0  493
+    u[51]     primal_lower1  41
+    u[51]     primal_lower2  430
+    u[51]     primal_lower3  457
+    u[51]     primal_lower4  405
+    u[51]     primal_lower5  915
+    u[51]     primal_lower6  851
+    u[51]     primal_lower7  390
+    u[51]     primal_lower8  643
+    u[51]     primal_lower9  884
     u[51]     interdiction[51]  1
     u[51]     mccormick1[51]  -1
     u[51]     mccormick3[51]  1
-    u[52]     primal_lower0  91
-    u[52]     primal_lower1  917
-    u[52]     primal_lower2  84
-    u[52]     primal_lower3  289
-    u[52]     primal_lower4  115
-    u[52]     primal_lower5  97
-    u[52]     primal_lower6  810
-    u[52]     primal_lower7  177
-    u[52]     primal_lower8  279
-    u[52]     primal_lower9  419
+    u[52]     primal_lower0  422
+    u[52]     primal_lower1  398
+    u[52]     primal_lower2  643
+    u[52]     primal_lower3  58
+    u[52]     primal_lower4  418
+    u[52]     primal_lower5  780
+    u[52]     primal_lower6  268
+    u[52]     primal_lower7  803
+    u[52]     primal_lower8  124
+    u[52]     primal_lower9  245
     u[52]     interdiction[52]  1
     u[52]     mccormick1[52]  -1
     u[52]     mccormick3[52]  1
-    u[53]     primal_lower0  623
-    u[53]     primal_lower1  105
-    u[53]     primal_lower2  452
-    u[53]     primal_lower3  371
-    u[53]     primal_lower4  349
-    u[53]     primal_lower5  379
-    u[53]     primal_lower6  730
-    u[53]     primal_lower7  389
-    u[53]     primal_lower8  275
-    u[53]     primal_lower9  711
+    u[53]     primal_lower0  881
+    u[53]     primal_lower1  165
+    u[53]     primal_lower2  162
+    u[53]     primal_lower3  221
+    u[53]     primal_lower4  729
+    u[53]     primal_lower5  151
+    u[53]     primal_lower6  47
+    u[53]     primal_lower7  106
+    u[53]     primal_lower8  495
+    u[53]     primal_lower9  96
     u[53]     interdiction[53]  1
     u[53]     mccormick1[53]  -1
     u[53]     mccormick3[53]  1
-    u[54]     primal_lower0  508
-    u[54]     primal_lower1  998
-    u[54]     primal_lower2  253
-    u[54]     primal_lower3  407
-    u[54]     primal_lower4  529
-    u[54]     primal_lower5  135
-    u[54]     primal_lower6  187
-    u[54]     primal_lower7  586
-    u[54]     primal_lower8  400
-    u[54]     primal_lower9  436
+    u[54]     primal_lower0  601
+    u[54]     primal_lower1  874
+    u[54]     primal_lower2  183
+    u[54]     primal_lower3  493
+    u[54]     primal_lower4  398
+    u[54]     primal_lower5  575
+    u[54]     primal_lower6  487
+    u[54]     primal_lower7  231
+    u[54]     primal_lower8  903
+    u[54]     primal_lower9  280
     u[54]     interdiction[54]  1
     u[54]     mccormick1[54]  -1
     u[54]     mccormick3[54]  1
-    u[55]     primal_lower0  2
-    u[55]     primal_lower1  876
-    u[55]     primal_lower2  367
-    u[55]     primal_lower3  451
-    u[55]     primal_lower4  309
-    u[55]     primal_lower5  547
-    u[55]     primal_lower6  429
-    u[55]     primal_lower7  704
-    u[55]     primal_lower8  134
-    u[55]     primal_lower9  914
+    u[55]     primal_lower0  540
+    u[55]     primal_lower1  25
+    u[55]     primal_lower2  502
+    u[55]     primal_lower3  464
+    u[55]     primal_lower4  461
+    u[55]     primal_lower5  402
+    u[55]     primal_lower6  50
+    u[55]     primal_lower7  614
+    u[55]     primal_lower8  146
+    u[55]     primal_lower9  467
     u[55]     interdiction[55]  1
     u[55]     mccormick1[55]  -1
     u[55]     mccormick3[55]  1
-    u[56]     primal_lower0  926
-    u[56]     primal_lower1  224
-    u[56]     primal_lower2  231
-    u[56]     primal_lower3  357
-    u[56]     primal_lower4  711
-    u[56]     primal_lower5  141
-    u[56]     primal_lower6  437
-    u[56]     primal_lower7  780
-    u[56]     primal_lower8  794
-    u[56]     primal_lower9  814
+    u[56]     primal_lower0  106
+    u[56]     primal_lower1  690
+    u[56]     primal_lower2  983
+    u[56]     primal_lower3  710
+    u[56]     primal_lower4  750
+    u[56]     primal_lower5  272
+    u[56]     primal_lower6  680
+    u[56]     primal_lower7  695
+    u[56]     primal_lower8  160
+    u[56]     primal_lower9  33
     u[56]     interdiction[56]  1
     u[56]     mccormick1[56]  -1
     u[56]     mccormick3[56]  1
-    u[57]     primal_lower0  209
-    u[57]     primal_lower1  683
-    u[57]     primal_lower2  958
-    u[57]     primal_lower3  133
-    u[57]     primal_lower4  223
-    u[57]     primal_lower5  85
-    u[57]     primal_lower6  820
-    u[57]     primal_lower7  975
-    u[57]     primal_lower8  21
-    u[57]     primal_lower9  969
+    u[57]     primal_lower0  527
+    u[57]     primal_lower1  316
+    u[57]     primal_lower2  793
+    u[57]     primal_lower3  499
+    u[57]     primal_lower4  928
+    u[57]     primal_lower5  133
+    u[57]     primal_lower6  613
+    u[57]     primal_lower7  825
+    u[57]     primal_lower8  13
+    u[57]     primal_lower9  798
     u[57]     interdiction[57]  1
     u[57]     mccormick1[57]  -1
     u[57]     mccormick3[57]  1
-    u[58]     primal_lower0  900
-    u[58]     primal_lower1  406
-    u[58]     primal_lower2  573
-    u[58]     primal_lower3  374
-    u[58]     primal_lower4  16
-    u[58]     primal_lower5  598
-    u[58]     primal_lower6  731
-    u[58]     primal_lower7  570
-    u[58]     primal_lower8  240
-    u[58]     primal_lower9  124
+    u[58]     primal_lower0  965
+    u[58]     primal_lower1  725
+    u[58]     primal_lower2  922
+    u[58]     primal_lower3  993
+    u[58]     primal_lower4  705
+    u[58]     primal_lower5  931
+    u[58]     primal_lower6  83
+    u[58]     primal_lower7  490
+    u[58]     primal_lower8  299
+    u[58]     primal_lower9  676
     u[58]     interdiction[58]  1
     u[58]     mccormick1[58]  -1
     u[58]     mccormick3[58]  1
-    u[59]     primal_lower0  131
-    u[59]     primal_lower1  349
-    u[59]     primal_lower2  56
-    u[59]     primal_lower3  972
-    u[59]     primal_lower4  422
-    u[59]     primal_lower5  68
-    u[59]     primal_lower6  638
-    u[59]     primal_lower7  217
-    u[59]     primal_lower8  415
-    u[59]     primal_lower9  459
+    u[59]     primal_lower0  55
+    u[59]     primal_lower1  131
+    u[59]     primal_lower2  400
+    u[59]     primal_lower3  795
+    u[59]     primal_lower4  607
+    u[59]     primal_lower5  45
+    u[59]     primal_lower6  357
+    u[59]     primal_lower7  992
+    u[59]     primal_lower8  677
+    u[59]     primal_lower9  838
     u[59]     interdiction[59]  1
     u[59]     mccormick1[59]  -1
     u[59]     mccormick3[59]  1
@@ -1399,95 +1399,95 @@ COLUMNS
     z[0]      mccormick1[0]  1
     z[0]      mccormick2[0]  1
     z[0]      mccormick3[0]  -1
-    z[1]      primal_upper  3
+    z[1]      primal_upper  98
     z[1]      mccormick1[1]  1
     z[1]      mccormick2[1]  1
     z[1]      mccormick3[1]  -1
-    z[2]      primal_upper  98
+    z[2]      primal_upper  8
     z[2]      mccormick1[2]  1
     z[2]      mccormick2[2]  1
     z[2]      mccormick3[2]  -1
-    z[3]      primal_upper  3
+    z[3]      primal_upper  40
     z[3]      mccormick1[3]  1
     z[3]      mccormick2[3]  1
     z[3]      mccormick3[3]  -1
-    z[4]      primal_upper  8
+    z[4]      primal_upper  29
     z[4]      mccormick1[4]  1
     z[4]      mccormick2[4]  1
     z[4]      mccormick3[4]  -1
-    z[5]      primal_upper  86
+    z[5]      primal_upper  57
     z[5]      mccormick1[5]  1
     z[5]      mccormick2[5]  1
     z[5]      mccormick3[5]  -1
-    z[6]      primal_upper  40
+    z[6]      primal_upper  84
     z[6]      mccormick1[6]  1
     z[6]      mccormick2[6]  1
     z[6]      mccormick3[6]  -1
-    z[7]      primal_upper  46
+    z[7]      primal_upper  66
     z[7]      mccormick1[7]  1
     z[7]      mccormick2[7]  1
     z[7]      mccormick3[7]  -1
-    z[8]      primal_upper  29
+    z[8]      primal_upper  46
     z[8]      mccormick1[8]  1
     z[8]      mccormick2[8]  1
     z[8]      mccormick3[8]  -1
-    z[9]      primal_upper  16
+    z[9]      primal_upper  41
     z[9]      mccormick1[9]  1
     z[9]      mccormick2[9]  1
     z[9]      mccormick3[9]  -1
-    z[10]     primal_upper  57
+    z[10]     primal_upper  18
     z[10]     mccormick1[10]  1
     z[10]     mccormick2[10]  1
     z[10]     mccormick3[10]  -1
-    z[11]     primal_upper  60
+    z[11]     primal_upper  29
     z[11]     mccormick1[11]  1
     z[11]     mccormick2[11]  1
     z[11]     mccormick3[11]  -1
-    z[12]     primal_upper  84
+    z[12]     primal_upper  28
     z[12]     mccormick1[12]  1
     z[12]     mccormick2[12]  1
     z[12]     mccormick3[12]  -1
-    z[13]     primal_upper  54
+    z[13]     primal_upper  40
     z[13]     mccormick1[13]  1
     z[13]     mccormick2[13]  1
     z[13]     mccormick3[13]  -1
-    z[14]     primal_upper  66
+    z[14]     primal_upper  45
     z[14]     mccormick1[14]  1
     z[14]     mccormick2[14]  1
     z[14]     mccormick3[14]  -1
-    z[15]     primal_upper  91
+    z[15]     primal_upper  49
     z[15]     mccormick1[15]  1
     z[15]     mccormick2[15]  1
     z[15]     mccormick3[15]  -1
-    z[16]     primal_upper  46
+    z[16]     primal_upper  43
     z[16]     mccormick1[16]  1
     z[16]     mccormick2[16]  1
     z[16]     mccormick3[16]  -1
-    z[17]     primal_upper  16
+    z[17]     primal_upper  24
     z[17]     mccormick1[17]  1
     z[17]     mccormick2[17]  1
     z[17]     mccormick3[17]  -1
-    z[18]     primal_upper  41
+    z[18]     primal_upper  27
     z[18]     mccormick1[18]  1
     z[18]     mccormick2[18]  1
     z[18]     mccormick3[18]  -1
-    z[19]     primal_upper  38
+    z[19]     primal_upper  29
     z[19]     mccormick1[19]  1
     z[19]     mccormick2[19]  1
     z[19]     mccormick3[19]  -1
-    z[20]     primal_upper  18
+    z[20]     primal_upper  5
     z[20]     mccormick1[20]  1
     z[20]     mccormick2[20]  1
     z[20]     mccormick3[20]  -1
-    z[21]     primal_upper  46
+    z[21]     primal_upper  100
     z[21]     mccormick1[21]  1
     z[21]     mccormick2[21]  1
     z[21]     mccormick3[21]  -1
-    z[22]     primal_upper  29
+    z[22]     primal_upper  24
     z[22]     mccormick1[22]  1
     z[22]     mccormick2[22]  1
     z[22]     mccormick3[22]  -1
-    z[23]     primal_upper  22
+    z[23]     primal_upper  57
     z[23]     mccormick1[23]  1
     z[23]     mccormick2[23]  1
     z[23]     mccormick3[23]  -1
@@ -1495,159 +1495,159 @@ COLUMNS
     z[24]     mccormick1[24]  1
     z[24]     mccormick2[24]  1
     z[24]     mccormick3[24]  -1
-    z[25]     primal_upper  75
+    z[25]     primal_upper  16
     z[25]     mccormick1[25]  1
     z[25]     mccormick2[25]  1
     z[25]     mccormick3[25]  -1
-    z[26]     primal_upper  40
+    z[26]     primal_upper  94
     z[26]     mccormick1[26]  1
     z[26]     mccormick2[26]  1
     z[26]     mccormick3[26]  -1
-    z[27]     primal_upper  69
+    z[27]     primal_upper  12
     z[27]     mccormick1[27]  1
     z[27]     mccormick2[27]  1
     z[27]     mccormick3[27]  -1
-    z[28]     primal_upper  45
+    z[28]     primal_upper  13
     z[28]     mccormick1[28]  1
     z[28]     mccormick2[28]  1
     z[28]     mccormick3[28]  -1
-    z[29]     primal_upper  77
+    z[29]     primal_upper  90
     z[29]     mccormick1[29]  1
     z[29]     mccormick2[29]  1
     z[29]     mccormick3[29]  -1
-    z[30]     primal_upper  49
+    z[30]     primal_upper  5
     z[30]     mccormick1[30]  1
     z[30]     mccormick2[30]  1
     z[30]     mccormick3[30]  -1
-    z[31]     primal_upper  46
+    z[31]     primal_upper  5
     z[31]     mccormick1[31]  1
     z[31]     mccormick2[31]  1
     z[31]     mccormick3[31]  -1
-    z[32]     primal_upper  43
+    z[32]     primal_upper  11
     z[32]     mccormick1[32]  1
     z[32]     mccormick2[32]  1
     z[32]     mccormick3[32]  -1
-    z[33]     primal_upper  74
+    z[33]     primal_upper  55
     z[33]     mccormick1[33]  1
     z[33]     mccormick2[33]  1
     z[33]     mccormick3[33]  -1
-    z[34]     primal_upper  24
+    z[34]     primal_upper  16
     z[34]     mccormick1[34]  1
     z[34]     mccormick2[34]  1
     z[34]     mccormick3[34]  -1
-    z[35]     primal_upper  83
+    z[35]     primal_upper  76
     z[35]     mccormick1[35]  1
     z[35]     mccormick2[35]  1
     z[35]     mccormick3[35]  -1
-    z[36]     primal_upper  27
+    z[36]     primal_upper  66
     z[36]     mccormick1[36]  1
     z[36]     mccormick2[36]  1
     z[36]     mccormick3[36]  -1
-    z[37]     primal_upper  12
+    z[37]     primal_upper  65
     z[37]     mccormick1[37]  1
     z[37]     mccormick2[37]  1
     z[37]     mccormick3[37]  -1
-    z[38]     primal_upper  29
+    z[38]     primal_upper  92
     z[38]     mccormick1[38]  1
     z[38]     mccormick2[38]  1
     z[38]     mccormick3[38]  -1
-    z[39]     primal_upper  78
+    z[39]     primal_upper  81
     z[39]     mccormick1[39]  1
     z[39]     mccormick2[39]  1
     z[39]     mccormick3[39]  -1
-    z[40]     primal_upper  5
+    z[40]     primal_upper  54
     z[40]     mccormick1[40]  1
     z[40]     mccormick2[40]  1
     z[40]     mccormick3[40]  -1
-    z[41]     primal_upper  51
+    z[41]     primal_upper  25
     z[41]     mccormick1[41]  1
     z[41]     mccormick2[41]  1
     z[41]     mccormick3[41]  -1
-    z[42]     primal_upper  100
+    z[42]     primal_upper  78
     z[42]     mccormick1[42]  1
     z[42]     mccormick2[42]  1
     z[42]     mccormick3[42]  -1
-    z[43]     primal_upper  58
+    z[43]     primal_upper  71
     z[43]     mccormick1[43]  1
     z[43]     mccormick2[43]  1
     z[43]     mccormick3[43]  -1
-    z[44]     primal_upper  24
+    z[44]     primal_upper  50
     z[44]     mccormick1[44]  1
     z[44]     mccormick2[44]  1
     z[44]     mccormick3[44]  -1
-    z[45]     primal_upper  35
+    z[45]     primal_upper  70
     z[45]     mccormick1[45]  1
     z[45]     mccormick2[45]  1
     z[45]     mccormick3[45]  -1
-    z[46]     primal_upper  57
+    z[46]     primal_upper  56
     z[46]     mccormick1[46]  1
     z[46]     mccormick2[46]  1
     z[46]     mccormick3[46]  -1
-    z[47]     primal_upper  81
+    z[47]     primal_upper  83
     z[47]     mccormick1[47]  1
     z[47]     mccormick2[47]  1
     z[47]     mccormick3[47]  -1
-    z[48]     primal_upper  28
+    z[48]     primal_upper  22
     z[48]     mccormick1[48]  1
     z[48]     mccormick2[48]  1
     z[48]     mccormick3[48]  -1
-    z[49]     primal_upper  37
+    z[49]     primal_upper  78
     z[49]     mccormick1[49]  1
     z[49]     mccormick2[49]  1
     z[49]     mccormick3[49]  -1
-    z[50]     primal_upper  16
+    z[50]     primal_upper  95
     z[50]     mccormick1[50]  1
     z[50]     mccormick2[50]  1
     z[50]     mccormick3[50]  -1
-    z[51]     primal_upper  46
+    z[51]     primal_upper  84
     z[51]     mccormick1[51]  1
     z[51]     mccormick2[51]  1
     z[51]     mccormick3[51]  -1
-    z[52]     primal_upper  94
+    z[52]     primal_upper  54
     z[52]     mccormick1[52]  1
     z[52]     mccormick2[52]  1
     z[52]     mccormick3[52]  -1
-    z[53]     primal_upper  45
+    z[53]     primal_upper  30
     z[53]     mccormick1[53]  1
     z[53]     mccormick2[53]  1
     z[53]     mccormick3[53]  -1
-    z[54]     primal_upper  12
+    z[54]     primal_upper  71
     z[54]     mccormick1[54]  1
     z[54]     mccormick2[54]  1
     z[54]     mccormick3[54]  -1
-    z[55]     primal_upper  87
+    z[55]     primal_upper  34
     z[55]     mccormick1[55]  1
     z[55]     mccormick2[55]  1
     z[55]     mccormick3[55]  -1
-    z[56]     primal_upper  13
+    z[56]     primal_upper  34
     z[56]     mccormick1[56]  1
     z[56]     mccormick2[56]  1
     z[56]     mccormick3[56]  -1
-    z[57]     primal_upper  56
+    z[57]     primal_upper  78
     z[57]     mccormick1[57]  1
     z[57]     mccormick2[57]  1
     z[57]     mccormick3[57]  -1
-    z[58]     primal_upper  90
+    z[58]     primal_upper  49
     z[58]     mccormick1[58]  1
     z[58]     mccormick2[58]  1
     z[58]     mccormick3[58]  -1
-    z[59]     primal_upper  36
+    z[59]     primal_upper  86
     z[59]     mccormick1[59]  1
     z[59]     mccormick2[59]  1
     z[59]     mccormick3[59]  -1
     MARKER    'MARKER'                 'INTEND'
 RHS
-    RHS1      primal_upper  5540
-    RHS1      primal_lower0  15823
-    RHS1      primal_lower1  11531
-    RHS1      primal_lower2  968
-    RHS1      primal_lower3  16857
-    RHS1      primal_lower4  11814
-    RHS1      primal_lower5  5791
-    RHS1      primal_lower6  12400
-    RHS1      primal_lower7  11953
-    RHS1      primal_lower8  12619
-    RHS1      primal_lower9  11921
+    RHS1      primal_upper  5840
+    RHS1      primal_lower0  17246
+    RHS1      primal_lower1  968
+    RHS1      primal_lower2  18900
+    RHS1      primal_lower3  18062
+    RHS1      primal_lower4  11206
+    RHS1      primal_lower5  11660
+    RHS1      primal_lower6  5684
+    RHS1      primal_lower7  13934
+    RHS1      primal_lower8  10374
+    RHS1      primal_lower9  6237
     RHS1      interdiction[0]  1
     RHS1      interdiction[1]  1
     RHS1      interdiction[2]  1
